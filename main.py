@@ -1,4 +1,6 @@
 import requests
+from datetime import datetime, time, date
+
 
 def get_vacancies(keyword: str, programming_language: str="Python") -> None:
     url = "https://api.hh.ru/vacancies"
@@ -29,6 +31,8 @@ def get_vacancies(keyword: str, programming_language: str="Python") -> None:
             salary = vacancy["salary"]
             # print(vacancy["salary"])
             # print(salary)
+            print(vacancy)
+            break
             result.append(
                 [vacancy_id, vacancy_title, vacancy_url, company_name, salary, programming_language]
             )
@@ -39,8 +43,5 @@ def get_vacancies(keyword: str, programming_language: str="Python") -> None:
 
 
 # Example usage
-get_vacancies("junior python")
-d = {
-    "1": "a"
-}
-print(d.get("2", 0))
+a = '2024-03-06T16:55:57+0300'
+print(datetime.fromisoformat(a).date())
