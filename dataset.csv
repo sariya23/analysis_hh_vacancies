@@ -1,541 +1,550 @@
 ID,VACANCY_TITLE,COMPANY_NAME,SALARY,CITY,DATE,PROGRAMMING_LANGUAGE,VACANCY_URL
-94450348,Junior Frontend разработчик,EasyDev,60000,Москва,2024-03-09,Python,https://hh.ru/vacancy/94450348
-94354526,Стажер-разработчик Python,Додо Пицца,150000,Ростов-на-Дону,2024-03-06,Python,https://hh.ru/vacancy/94354526
+94354526,Стажер-разработчик Python,Додо Пицца,100000,Ростов-на-Дону,2024-03-06,Python,https://hh.ru/vacancy/94354526
+94450348,Junior Frontend разработчик,EasyDev,40000,Москва,2024-03-09,Python,https://hh.ru/vacancy/94450348
 94120837,Python junior разработчик,Скиллтеллект,50000,Санкт-Петербург,2024-03-01,Python,https://hh.ru/vacancy/94120837
-94228875,Junior Frontend разработчик,MacBuildServer,50000,Самара,2024-03-07,Python,https://hh.ru/vacancy/94228875
+94228875,Junior Frontend разработчик,MacBuildServer,30000,Самара,2024-03-10,Python,https://hh.ru/vacancy/94228875
 94293788,Junior Python-разработчик,СОГАЗ,,Москва,2024-03-06,Python,https://hh.ru/vacancy/94293788
-94114941,Junior-разработчик,Планетра,60000,Москва,2024-03-07,Python,https://hh.ru/vacancy/94114941
-94403212,Junior-разработчик,Планетра,60000,Екатеринбург,2024-03-07,Python,https://hh.ru/vacancy/94403212
-93969272,Младший (junior) программист Python,Интеллектуальные системы,78750,Воронеж,2024-02-28,Python,https://hh.ru/vacancy/93969272
-94218872,Junior backend Go разработчик (Golang) / стажер (Удаленно),СФЕРА,55000,Москва,2024-03-07,Python,https://hh.ru/vacancy/94218872
+94114941,Junior-разработчик,Планетра,60000,Москва,2024-03-10,Python,https://hh.ru/vacancy/94114941
 93361633,Junior Python Developer,Бизнес Технологии,70000,Санкт-Петербург,2024-03-08,Python,https://hh.ru/vacancy/93361633
-94391819,Intern Data Engineer,Mindbox,35000,Москва,2024-03-07,Python,https://hh.ru/vacancy/94391819
-94416276,Младший специалист по искусственному интеллекту (ML),Аривист,50000,Санкт-Петербург,2024-03-07,Python,https://hh.ru/vacancy/94416276
-94114982,Junior-разработчик,Планетра,60000,Санкт-Петербург,2024-03-07,Python,https://hh.ru/vacancy/94114982
-91849357,Junior Backend-разработчик,Программные Системы,50000,Екатеринбург,2024-03-08,Python,https://hh.ru/vacancy/91849357
+94403212,Junior-разработчик,Планетра,60000,Екатеринбург,2024-03-10,Python,https://hh.ru/vacancy/94403212
+93969272,Младший (junior) программист Python,Интеллектуальные системы,37050,Воронеж,2024-02-28,Python,https://hh.ru/vacancy/93969272
+94218872,Junior backend Go разработчик (Golang) / стажер (Удаленно),СФЕРА,55000,Москва,2024-03-10,Python,https://hh.ru/vacancy/94218872
+94114982,Junior-разработчик,Планетра,60000,Санкт-Петербург,2024-03-10,Python,https://hh.ru/vacancy/94114982
 92816235,Project manager Junior,CRTEX,70000,Москва,2024-03-07,Python,https://hh.ru/vacancy/92816235
+94391819,Intern Data Engineer,Mindbox,35000,Москва,2024-03-07,Python,https://hh.ru/vacancy/94391819
+91849357,Junior Backend-разработчик,Программные Системы,50000,Екатеринбург,2024-03-08,Python,https://hh.ru/vacancy/91849357
+94416276,Младший специалист по искусственному интеллекту (ML),Аривист,45000,Санкт-Петербург,2024-03-07,Python,https://hh.ru/vacancy/94416276
+93725652,Trainee/Intern/Junior Python backend developer,Рекруто,10000,Санкт-Петербург,2024-02-24,Python,https://hh.ru/vacancy/93725652
 93988359,Аналитик (junior),Матчинг Гэлэкси,50000,Москва,2024-03-08,Python,https://hh.ru/vacancy/93988359
-93214685,Junior Java Developer,"Trend Soft, студия",70000,Москва,2024-03-09,Python,https://hh.ru/vacancy/93214685
-93725652,Trainee/Intern/Junior Python backend developer,Рекруто,60000,Санкт-Петербург,2024-02-24,Python,https://hh.ru/vacancy/93725652
-94120582,Junior-разработчик,Планетра,60000,Казань,2024-03-07,Python,https://hh.ru/vacancy/94120582
-89753481,"Стажер Back-end разработчика (php, python, c#)",Nti.team,30000,Санкт-Петербург,2024-02-27,Python,https://hh.ru/vacancy/89753481
-92581565,Начинающий Веб программист (Junior Web-разработчик),"РэйнбовСофт, НПО",,Саратов,2024-03-10,Python,https://hh.ru/vacancy/92581565
-94117594,Инженер-тестировщик,Медиа-тел,50000,Краснодар,2024-03-01,Python,https://hh.ru/vacancy/94117594
-93919883,Junior Frontend - разработчик,Программные Системы,50000,Екатеринбург,2024-03-08,Python,https://hh.ru/vacancy/93919883
-91266952,Junior Analyst (Младший Аналитик),OptiTeam,,Москва,2024-02-19,Python,https://hh.ru/vacancy/91266952
-94321442,Младший аналитик направления статистических моделей,Лига Ставок,,Москва,2024-03-06,Python,https://hh.ru/vacancy/94321442
-93662171,Junior SQL developer,Devim,50000,Санкт-Петербург,2024-03-03,Python,https://hh.ru/vacancy/93662171
-94313345,Junior Rust разработчик (Synapse),SberTech,120000,Москва,2024-03-06,Python,https://hh.ru/vacancy/94313345
+93214685,Junior Java Developer,"Trend Soft, студия",50000,Москва,2024-03-09,Python,https://hh.ru/vacancy/93214685
+93919883,Junior Frontend - разработчик,Программные Системы,50000,Екатеринбург,2024-03-11,Python,https://hh.ru/vacancy/93919883
+94120582,Junior-разработчик,Планетра,60000,Казань,2024-03-10,Python,https://hh.ru/vacancy/94120582
 94376381,Junior Web реверс-инженер,EvoSoft,,Красноярск,2024-03-07,Python,https://hh.ru/vacancy/94376381
-93969456,Junior Developer ИИ,Меткатом,80000,Санкт-Петербург,2024-02-28,Python,https://hh.ru/vacancy/93969456
-93686860,Junior Product Analyst,Sputnik8,,Санкт-Петербург,2024-02-22,Python,https://hh.ru/vacancy/93686860
-94226481,Младший аналитик данных (Департамент финансового мониторинга),ПСБ (ПАО «Промсвязьбанк»),,Москва,2024-03-04,Python,https://hh.ru/vacancy/94226481
-93472687,Junior Data Scientist,B2B-Center,,Москва,2024-02-19,Python,https://hh.ru/vacancy/93472687
-93423525,Data Analyst (Junior),DNS Технологии,60000,Владивосток,2024-02-19,Python,https://hh.ru/vacancy/93423525
-93687259,Junior Analyst (Customer Support Team),Sputnik8,,Санкт-Петербург,2024-02-22,Python,https://hh.ru/vacancy/93687259
-91747544,Младший системный администратор в отдел автоматизации ЦОД (DevOps),Тензор,100000,Ярославль,2024-02-15,Python,https://hh.ru/vacancy/91747544
-92544388,Инженер по тестированию ПО (Junior),Гексагон,,Москва,2024-03-07,Python,https://hh.ru/vacancy/92544388
-94178817,NLP Engineer (Инженер по обработке естественного языка),Учкнига,,Москва,2024-03-07,Python,https://hh.ru/vacancy/94178817
-93363563,Junior-разработчик,Планетра,60000,Екатеринбург,2024-02-16,Python,https://hh.ru/vacancy/93363563
-93902549,С++ Junior разработчик,Компания Ритейл Сервис,50000,Барнаул,2024-02-28,Python,https://hh.ru/vacancy/93902549
-92909852,Project manager Junior,CRTEX,60000,Москва,2024-03-07,Python,https://hh.ru/vacancy/92909852
+94117594,Инженер-тестировщик,Медиа-тел,50000,Краснодар,2024-03-01,Python,https://hh.ru/vacancy/94117594
+89753481,"Стажер Back-end разработчика (php, python, c#)",Nti.team,15000,Санкт-Петербург,2024-03-11,Python,https://hh.ru/vacancy/89753481
+91266952,Junior Analyst (Младший Аналитик),OptiTeam,,Москва,2024-02-19,Python,https://hh.ru/vacancy/91266952
+94481923,Junior Data/ML-инженер,"ОЙЛТИМ, Компания",60000,Уфа,2024-03-11,Python,https://hh.ru/vacancy/94481923
+92581565,Начинающий Веб программист (Junior Web-разработчик),"РэйнбовСофт, НПО",,Саратов,2024-03-10,Python,https://hh.ru/vacancy/92581565
+94321442,Младший аналитик направления статистических моделей,Лига Ставок,,Москва,2024-03-06,Python,https://hh.ru/vacancy/94321442
 93354312,Backend разработчик (junior),Интэрсо,,Петрозаводск,2024-02-16,Python,https://hh.ru/vacancy/93354312
-93540310,Младший аналитик (IT),Olima,140000,Москва,2024-03-09,Python,https://hh.ru/vacancy/93540310
-93543632,Junior Data engineer (Дата инженер),Тим,,Москва,2024-03-09,Python,https://hh.ru/vacancy/93543632
+93662171,Junior SQL developer,Devim,50000,Санкт-Петербург,2024-03-03,Python,https://hh.ru/vacancy/93662171
+93686860,Junior Product Analyst,Sputnik8,,Санкт-Петербург,2024-02-22,Python,https://hh.ru/vacancy/93686860
+94313345,Junior Rust разработчик (Synapse),SberTech,120000,Москва,2024-03-06,Python,https://hh.ru/vacancy/94313345
+91747544,Младший системный администратор в отдел автоматизации ЦОД (DevOps),Тензор,60000,Ярославль,2024-02-15,Python,https://hh.ru/vacancy/91747544
+93363563,Junior-разработчик,Планетра,60000,Екатеринбург,2024-02-16,Python,https://hh.ru/vacancy/93363563
+94226481,Младший аналитик данных (Департамент финансового мониторинга),ПСБ (ПАО «Промсвязьбанк»),,Москва,2024-03-04,Python,https://hh.ru/vacancy/94226481
+93969456,Junior Developer ИИ,Меткатом,80000,Санкт-Петербург,2024-02-28,Python,https://hh.ru/vacancy/93969456
+93472687,Junior Data Scientist,B2B-Center,,Москва,2024-02-19,Python,https://hh.ru/vacancy/93472687
+93540310,Младший аналитик (IT),Olima,100000,Москва,2024-03-09,Python,https://hh.ru/vacancy/93540310
+92011187,Стажер Аналитик данных (Группа аналитики данных),ЦРПТ (Центр развития перспективных технологий),30000,Санкт-Петербург,2024-03-11,Python,https://hh.ru/vacancy/92011187
 92361982,Junior Data Analyst,"РЕСО-Гарантия, САО",,Москва,2024-02-28,Python,https://hh.ru/vacancy/92361982
-94233577,Стажер автотестирования (Python),ITFB Group,,Екатеринбург,2024-03-04,Python,https://hh.ru/vacancy/94233577
-92070271,Младший аналитик данных (Junior Data Analyst),СБЕР,,Москва,2024-02-22,Python,https://hh.ru/vacancy/92070271
-93553119,Разработчик (Junior) BigData,АФЛТ-Системс,,Москва,2024-03-09,Python,https://hh.ru/vacancy/93553119
+94178817,NLP Engineer (Инженер по обработке естественного языка),Учкнига,,Москва,2024-03-10,Python,https://hh.ru/vacancy/94178817
+93687259,Junior Analyst (Customer Support Team),Sputnik8,,Санкт-Петербург,2024-02-22,Python,https://hh.ru/vacancy/93687259
+92544388,Инженер по тестированию ПО (Junior),Гексагон,,Москва,2024-03-10,Python,https://hh.ru/vacancy/92544388
+93543632,Junior Data engineer (Дата инженер),Тим,,Москва,2024-03-09,Python,https://hh.ru/vacancy/93543632
+92909852,Project manager Junior,CRTEX,60000,Москва,2024-03-07,Python,https://hh.ru/vacancy/92909852
 92361995,Младший продуктовый аналитик,"РЕСО-Гарантия, САО",,Москва,2024-02-28,Python,https://hh.ru/vacancy/92361995
-91899118,Младший аналитик антифрод-мониторинга (Junior),Универсальный Советник,,Хабаровск,2024-02-17,Python,https://hh.ru/vacancy/91899118
 94048664,Junior Разработчик на SAS RTDM (стажер),Ак Барс Банк,40000,Казань,2024-02-29,Python,https://hh.ru/vacancy/94048664
+93423525,Data Analyst (Junior),DNS Технологии,60000,Владивосток,2024-02-19,Python,https://hh.ru/vacancy/93423525
+94233577,Стажер автотестирования (Python),ITFB Group,,Екатеринбург,2024-03-04,Python,https://hh.ru/vacancy/94233577
+93553119,Разработчик (Junior) BigData,АФЛТ-Системс,,Москва,2024-03-09,Python,https://hh.ru/vacancy/93553119
+91899118,Младший аналитик антифрод-мониторинга (Junior),Универсальный Советник,,Хабаровск,2024-02-17,Python,https://hh.ru/vacancy/91899118
+92070271,Младший аналитик данных (Junior Data Analyst),СБЕР,,Москва,2024-02-22,Python,https://hh.ru/vacancy/92070271
 93826184,Junior Data Engineer,СБЕР,,Москва,2024-02-26,Python,https://hh.ru/vacancy/93826184
-93252056,Python Junior Сценарист (г. Омск),СБЕР,70200,Омск,2024-02-15,Python,https://hh.ru/vacancy/93252056
-92977061,Стажер автотестирования (Python),ITFB Group,,Москва,2024-03-07,Python,https://hh.ru/vacancy/92977061
-94230503,Младший аналитик (группа предотвращения потерь),Ozon,,Москва,2024-03-04,Python,https://hh.ru/vacancy/94230503
 92693637,Младший аналитик данных,Ozon,,Москва,2024-02-21,Python,https://hh.ru/vacancy/92693637
-94054249,Стажер автотестирования (Python),ITFB Group,,Самара,2024-02-29,Python,https://hh.ru/vacancy/94054249
-93681157,Младший аналитик,Компания ПЭК,,Москва,2024-02-22,Python,https://hh.ru/vacancy/93681157
-92715286,Junior full-stack developer,Сервис Руки,,Москва,2024-02-29,Python,https://hh.ru/vacancy/92715286
-93851759,Стажер DevOps-инженер,Райффайзен Банк,,Москва,2024-02-27,Python,https://hh.ru/vacancy/93851759
+93902549,С++ Junior разработчик,Компания Ритейл Сервис,30000,Барнаул,2024-03-11,Python,https://hh.ru/vacancy/93902549
+94230503,Младший аналитик (группа предотвращения потерь),Ozon,,Москва,2024-03-04,Python,https://hh.ru/vacancy/94230503
+93293538,QA Engineer. auto,Хантфлоу интеграция УЗ2,180000,Лорино (Чукотский АО),2024-02-15,Python,https://hh.ru/vacancy/93293538
+93102802,Младший аналитик данных (Группа аналитики данных),ЦРПТ (Центр развития перспективных технологий),,Санкт-Петербург,2024-03-11,Python,https://hh.ru/vacancy/93102802
 93469262,No-code разработчик (без опыта),Планетра,60000,Москва,2024-02-19,Python,https://hh.ru/vacancy/93469262
-93286822,Младший аналитик,Ростелеком,65000,Москва,2024-02-15,Python,https://hh.ru/vacancy/93286822
-93190235,"Fresh Graduate - Junior Data Analysis (based in Beijing, China)","WISELINK CO.,LTD.",2000,Москва,2024-03-09,Python,https://hh.ru/vacancy/93190235
-93458665,Младший аналитик SOC (L1),VK,,Москва,2024-02-19,Python,https://hh.ru/vacancy/93458665
-92803313,Data analyst (Junior),DNS Технологии,60000,Владивосток,2024-03-07,Python,https://hh.ru/vacancy/92803313
+93681157,Младший аналитик,Компания ПЭК,,Москва,2024-02-22,Python,https://hh.ru/vacancy/93681157
+93190235,"Fresh Graduate - Junior Data Analysis (based in Beijing, China)","WISELINK CO.,LTD.",1200,Москва,2024-03-09,Python,https://hh.ru/vacancy/93190235
 93161259,Аналитик (junior),ТОП КЕЙС,,Москва,2024-03-03,Python,https://hh.ru/vacancy/93161259
-93480548,No-code разработчик (без опыта),Планетра,60000,Санкт-Петербург,2024-02-19,Python,https://hh.ru/vacancy/93480548
-94054323,Стажер автотестирования (Python),ITFB Group,,Пермь,2024-02-29,Python,https://hh.ru/vacancy/94054323
-93268216,Младший аналитик (маркетинговые исследования),OSTIN,,Москва,2024-02-15,Python,https://hh.ru/vacancy/93268216
-89674841,DevOps Engineer (Intern \ Junior),evrone.ru,120000,Воронеж,2024-03-07,Python,https://hh.ru/vacancy/89674841
-93293538,QA Engineer. auto,Хантфлоу интеграция УЗ2,270000,Лорино (Чукотский АО),2024-02-15,Python,https://hh.ru/vacancy/93293538
+92715286,Junior full-stack developer,Сервис Руки,,Москва,2024-02-29,Python,https://hh.ru/vacancy/92715286
+93286822,Младший аналитик,Ростелеком,65000,Москва,2024-02-15,Python,https://hh.ru/vacancy/93286822
 92148813,Младший научный сотрудник (ИИ в Здравоохранении),ГБУЗ «Научно-практический клинический центр диагностики и телемедицинских технологий ДЗМ»,120000,Москва,2024-03-01,Python,https://hh.ru/vacancy/92148813
-91883912,Младший аналитик (Отдел анализа и оптимизации процессов взыскания),АО «ОТП Банк» (JSC «OTP Bank»),,Москва,2024-03-05,Python,https://hh.ru/vacancy/91883912
-94035066,Младший ​​​​​​​специалист по веб-защищенности​​​​​​​,Okko,,Москва,2024-02-29,Python,https://hh.ru/vacancy/94035066
-91471177,Junior DevSecOps инженер,Инфосистемы Джет,,Краснодар,2024-02-21,Python,https://hh.ru/vacancy/91471177
-93664664,Big Data Engineer (Junior),Центральный банк Российской Федерации,,Санкт-Петербург,2024-02-22,Python,https://hh.ru/vacancy/93664664
-93401528,Младший системный администратор / junior DevOps / junior IT-архитектор,НПП Рекорд,50000,Новосибирск,2024-03-07,Python,https://hh.ru/vacancy/93401528
-93560801,Младший специалист по анализу репутации,BI.ZONE,,Москва,2024-02-20,Python,https://hh.ru/vacancy/93560801
+93480548,No-code разработчик (без опыта),Планетра,60000,Санкт-Петербург,2024-02-19,Python,https://hh.ru/vacancy/93480548
+93851759,Стажер DevOps-инженер,Райффайзен Банк,,Москва,2024-03-11,Python,https://hh.ru/vacancy/93851759
+89674841,DevOps Engineer (Intern \ Junior),evrone.ru,120000,Воронеж,2024-03-10,Python,https://hh.ru/vacancy/89674841
+93458665,Младший аналитик SOC (L1),VK,,Москва,2024-02-19,Python,https://hh.ru/vacancy/93458665
+94054249,Стажер автотестирования (Python),ITFB Group,,Самара,2024-02-29,Python,https://hh.ru/vacancy/94054249
+94054323,Стажер автотестирования (Python),ITFB Group,,Пермь,2024-02-29,Python,https://hh.ru/vacancy/94054323
 90002709,Младший специалист по разметке данных,Спортмастер,,Москва,2024-02-18,Python,https://hh.ru/vacancy/90002709
+92803313,Data analyst (Junior),DNS Технологии,60000,Владивосток,2024-03-07,Python,https://hh.ru/vacancy/92803313
+91471177,Junior DevSecOps инженер,Инфосистемы Джет,,Краснодар,2024-02-21,Python,https://hh.ru/vacancy/91471177
+91883912,Младший аналитик (Отдел анализа и оптимизации процессов взыскания),АО «ОТП Банк» (JSC «OTP Bank»),,Москва,2024-03-05,Python,https://hh.ru/vacancy/91883912
+93401528,Младший системный администратор / junior DevOps / junior IT-архитектор,НПП Рекорд,30000,Новосибирск,2024-03-10,Python,https://hh.ru/vacancy/93401528
+93560801,Младший специалист по анализу репутации,BI.ZONE,,Москва,2024-02-20,Python,https://hh.ru/vacancy/93560801
+94035066,Младший ​​​​​​​специалист по веб-защищенности​​​​​​​,Okko,,Москва,2024-02-29,Python,https://hh.ru/vacancy/94035066
 93548257,Младший разработчик BI,Газпромбанк,,Москва,2024-02-20,Python,https://hh.ru/vacancy/93548257
+93664664,Big Data Engineer (Junior),Центральный банк Российской Федерации,,Санкт-Петербург,2024-02-22,Python,https://hh.ru/vacancy/93664664
 93784516,Junior bioinformatician - lung carcinomas,BostonGene Technologies,,Москва,2024-02-26,Python,https://hh.ru/vacancy/93784516
-93285226,Junior Программист 1С (Стажер),Русские решения,40000,Санкт-Петербург,2024-03-07,Python,https://hh.ru/vacancy/93285226
-94104695,Стажер BI-аналитик,Академ Интеллект,30000,Москва,2024-03-07,Python,https://hh.ru/vacancy/94104695
-93485092,Web-аналитик / младший Web-аналитик,Shkulev Media Holding,,Москва,2024-02-19,Python,https://hh.ru/vacancy/93485092
-94214109,Разработчик нейросетевых алгоритмов/Reinforcement Learning,Федеральное автономное учреждение Государственный Научно-Исследовательский Институт Авиационных Систем,60000,Москва,2024-03-07,Python,https://hh.ru/vacancy/94214109
-93889877,Ведущий специалист отдела организации деятельности на ОРЭМ (Junior ML Engineer),"ОГК-2, Вторая генерирующая компания оптового рынка электроэнергии",,Санкт-Петербург,2024-02-27,Python,https://hh.ru/vacancy/93889877
-93589624,Junior DevOps,Центральный банк Российской Федерации,,Москва,2024-02-21,Python,https://hh.ru/vacancy/93589624
-92081497,"Младший инженер-программист С++ (офис в Кольцово, НЕ удаленно)",NAVITEL,100000,Новосибирск,2024-02-22,Python,https://hh.ru/vacancy/92081497
-93516439,Младший аналитик,Межрегиональное контрактное управление Федерального казначейства,35000,Москва,2024-02-20,Python,https://hh.ru/vacancy/93516439
-91483163,Младший аналитик в команду поисковых систем сервиса путешествий,Туту.ру,,Москва,2024-03-09,Python,https://hh.ru/vacancy/91483163
-92363247,QA Engineer на мобильную RTS,Gear Games,,Воронеж,2024-03-08,Python,https://hh.ru/vacancy/92363247
-94104874,Младший разработчик Siebel CRM,Nobilis.Team,,Рязань,2024-03-01,Python,https://hh.ru/vacancy/94104874
-88642335,System Administrator Linux Junior / Младший Системный Администратор Линукс,НТ Прогресс,,Москва,2024-03-08,Python,https://hh.ru/vacancy/88642335
 89220048,Биоинформатик (иммунология),Лаборатория геномной инженерии МФТИ,,Москва,2024-02-22,Python,https://hh.ru/vacancy/89220048
-93363511,Junior-разработчик,Планетра,60000,Казань,2024-02-16,Python,https://hh.ru/vacancy/93363511
-92245354,Стажёр-инженер АСУ и КИПиА / Automation junior engineer / Падаван робототехники,Интеллектуальные робот системы,68965,Москва,2024-03-08,Python,https://hh.ru/vacancy/92245354
-86880519,Инженер информационной безопасности Web приложений (Junior),SoftGamings,110000,Воронеж,2024-02-15,Python,https://hh.ru/vacancy/86880519
+93268216,Младший аналитик (маркетинговые исследования),OSTIN,,Москва,2024-02-15,Python,https://hh.ru/vacancy/93268216
+93285226,Junior Программист 1С (Стажер),Русские решения,40000,Санкт-Петербург,2024-03-10,Python,https://hh.ru/vacancy/93285226
+93485092,Web-аналитик / младший Web-аналитик,Shkulev Media Holding,,Москва,2024-02-19,Python,https://hh.ru/vacancy/93485092
+94214109,Разработчик нейросетевых алгоритмов/Reinforcement Learning,Федеральное автономное учреждение Государственный Научно-Исследовательский Институт Авиационных Систем,60000,Москва,2024-03-10,Python,https://hh.ru/vacancy/94214109
+93889877,Ведущий специалист отдела организации деятельности на ОРЭМ (Junior ML Engineer),"ОГК-2, Вторая генерирующая компания оптового рынка электроэнергии",,Санкт-Петербург,2024-02-27,Python,https://hh.ru/vacancy/93889877
+94104695,Стажер BI-аналитик,Академ Интеллект,30000,Москва,2024-03-10,Python,https://hh.ru/vacancy/94104695
+94104874,Младший разработчик Siebel CRM,Nobilis.Team,,Рязань,2024-03-01,Python,https://hh.ru/vacancy/94104874
+92363247,QA Engineer на мобильную RTS,Gear Games,,Воронеж,2024-03-08,Python,https://hh.ru/vacancy/92363247
+93516439,Младший аналитик,Межрегиональное контрактное управление Федерального казначейства,30000,Москва,2024-02-20,Python,https://hh.ru/vacancy/93516439
+91483163,Младший аналитик в команду поисковых систем сервиса путешествий,Туту.ру,,Москва,2024-03-09,Python,https://hh.ru/vacancy/91483163
+93589624,Junior DevOps,Центральный банк Российской Федерации,,Москва,2024-02-21,Python,https://hh.ru/vacancy/93589624
 93870058,Junior DevOps,Центральный банк Российской Федерации,,Нижний Новгород,2024-02-27,Python,https://hh.ru/vacancy/93870058
+92081497,"Младший инженер-программист С++ (офис в Кольцово, НЕ удаленно)",NAVITEL,60000,Новосибирск,2024-02-22,Python,https://hh.ru/vacancy/92081497
+88642335,System Administrator Linux Junior / Младший Системный Администратор Линукс,НТ Прогресс,,Москва,2024-03-08,Python,https://hh.ru/vacancy/88642335
+93363511,Junior-разработчик,Планетра,60000,Казань,2024-02-16,Python,https://hh.ru/vacancy/93363511
+86880519,Инженер информационной безопасности Web приложений (Junior),SoftGamings,70000,Воронеж,2024-02-15,Python,https://hh.ru/vacancy/86880519
+92245354,Стажёр-инженер АСУ и КИПиА / Automation junior engineer / Падаван робототехники,Интеллектуальные робот системы,68965,Москва,2024-03-08,Python,https://hh.ru/vacancy/92245354
 94048549,Junior Разработчик на SAS RTDM (стажер),Ак Барс Банк,40000,Иннополис,2024-02-29,Python,https://hh.ru/vacancy/94048549
-93204701,Junior C++ разработчик алгоритмов геометрического моделирования,Ледас,70000,Новосибирск,2024-03-09,Python,https://hh.ru/vacancy/93204701
-93341729,Тьютор по Blender,IT школа Hello world,60000,Санкт-Петербург,2024-02-16,Python,https://hh.ru/vacancy/93341729
-94218872,Junior backend Go разработчик (Golang) / стажер (Удаленно),СФЕРА,55000,Москва,2024-03-07,GO,https://hh.ru/vacancy/94218872
-93352039,Младший PR менеджер,Go Ahead,,Москва,2024-02-16,GO,https://hh.ru/vacancy/93352039
+93204701,Junior C++ разработчик алгоритмов геометрического моделирования,Ледас,40000,Новосибирск,2024-03-09,Python,https://hh.ru/vacancy/93204701
+94218872,Junior backend Go разработчик (Golang) / стажер (Удаленно),СФЕРА,55000,Москва,2024-03-10,GO,https://hh.ru/vacancy/94218872
 94260419,Младший системный администратор,Сеть магазинов цифровой и бытовой техники DNS,62150,Екатеринбург,2024-03-05,GO,https://hh.ru/vacancy/94260419
 92581565,Начинающий Веб программист (Junior Web-разработчик),"РэйнбовСофт, НПО",,Саратов,2024-03-10,GO,https://hh.ru/vacancy/92581565
+93352039,Младший PR менеджер,Go Ahead,,Москва,2024-02-16,GO,https://hh.ru/vacancy/93352039
 93662171,Junior SQL developer,Devim,50000,Санкт-Петербург,2024-03-03,GO,https://hh.ru/vacancy/93662171
 94314164,Junior Product Manager / Ассистент продакт-менеджера (Стажёр-менеджер продукта),TVL,,Москва,2024-03-06,GO,https://hh.ru/vacancy/94314164
-94392201,Младший системный администратор / Junior System Administrator / SysOps,Go Ahead,,Москва,2024-03-07,GO,https://hh.ru/vacancy/94392201
 94048969,"Junior Influence manager (CS:GO, CS2, esports)",Bladestorm,,Санкт-Петербург,2024-02-29,GO,https://hh.ru/vacancy/94048969
-81430574,Junior Android developer,Bip.ru,120000,Москва,2024-03-09,GO,https://hh.ru/vacancy/81430574
+94392201,Младший системный администратор / Junior System Administrator / SysOps,Go Ahead,,Москва,2024-03-07,GO,https://hh.ru/vacancy/94392201
+81430574,Junior Android developer,Bip.ru,80000,Москва,2024-03-09,GO,https://hh.ru/vacancy/81430574
 94233577,Стажер автотестирования (Python),ITFB Group,,Екатеринбург,2024-03-04,GO,https://hh.ru/vacancy/94233577
-92977061,Стажер автотестирования (Python),ITFB Group,,Москва,2024-03-07,GO,https://hh.ru/vacancy/92977061
-94054249,Стажер автотестирования (Python),ITFB Group,,Самара,2024-02-29,GO,https://hh.ru/vacancy/94054249
-94337832,Junior marketing project manager,Go Ahead,,Москва,2024-03-06,GO,https://hh.ru/vacancy/94337832
 94312892,Junior DevOps инженер (Тюмень/офис),Gems development (Джемс Девелопмент),,Тюмень,2024-03-09,GO,https://hh.ru/vacancy/94312892
-94341717,Junior marketing researcher / Младший маркетинговый исследователь,Go Ahead,,Москва,2024-03-06,GO,https://hh.ru/vacancy/94341717
-90405489,Младший HR-менеджер / Менеджер по счастью сотрудников,Go Ahead,,Москва,2024-02-19,GO,https://hh.ru/vacancy/90405489
+94337832,Junior marketing project manager,Go Ahead,,Москва,2024-03-06,GO,https://hh.ru/vacancy/94337832
 93822583,Младший маркетолог (Digital),Go Ahead,,Москва,2024-02-26,GO,https://hh.ru/vacancy/93822583
+90405489,Младший HR-менеджер / Менеджер по счастью сотрудников,Go Ahead,,Москва,2024-02-19,GO,https://hh.ru/vacancy/90405489
+94341717,Junior marketing researcher / Младший маркетинговый исследователь,Go Ahead,,Москва,2024-03-06,GO,https://hh.ru/vacancy/94341717
+89674841,DevOps Engineer (Intern \ Junior),evrone.ru,120000,Воронеж,2024-03-10,GO,https://hh.ru/vacancy/89674841
+94054249,Стажер автотестирования (Python),ITFB Group,,Самара,2024-02-29,GO,https://hh.ru/vacancy/94054249
 94054323,Стажер автотестирования (Python),ITFB Group,,Пермь,2024-02-29,GO,https://hh.ru/vacancy/94054323
-89674841,DevOps Engineer (Intern \ Junior),evrone.ru,120000,Воронеж,2024-03-07,GO,https://hh.ru/vacancy/89674841
 94035066,Младший ​​​​​​​специалист по веб-защищенности​​​​​​​,Okko,,Москва,2024-02-29,GO,https://hh.ru/vacancy/94035066
-91462128,Junior Project Manager (Influencer marketing) / Младший менеджер по работе с клиентами,Go Ahead,,Москва,2024-03-05,GO,https://hh.ru/vacancy/91462128
 92029467,Junior Partnership Manager / Младший менеджер по работе с партнерами,Go Ahead,,Москва,2024-02-21,GO,https://hh.ru/vacancy/92029467
-86109431,Junior Разработчик C#,Стройсервис (Группа предприятий),109000,Кемерово,2024-02-29,GO,https://hh.ru/vacancy/86109431
+91462128,Junior Project Manager (Influencer marketing) / Младший менеджер по работе с клиентами,Go Ahead,,Москва,2024-03-05,GO,https://hh.ru/vacancy/91462128
 93630825,Junior Media Planner / Младший медиапланер,Go Ahead,,Москва,2024-02-21,GO,https://hh.ru/vacancy/93630825
+91399727,Junior Traffic-manager / User Acquisition (App),Go Ahead,,Москва,2024-03-10,GO,https://hh.ru/vacancy/91399727
+86109431,Junior Разработчик C#,Стройсервис (Группа предприятий),109000,Кемерово,2024-02-29,GO,https://hh.ru/vacancy/86109431
+93227609,Junior Operations Manager / Документооборот,Go Ahead,,Москва,2024-03-11,GO,https://hh.ru/vacancy/93227609
+93869028,Младший сервисный инженер (стажёр) по медицинскому оборудованию,Рэйлинк,60000,Москва,2024-03-10,GO,https://hh.ru/vacancy/93869028
 87272915,Junior strategist / Младший стратег (Mobile),Go Ahead,,Москва,2024-02-22,GO,https://hh.ru/vacancy/87272915
-93869028,Младший сервисный инженер (стажёр) по медицинскому оборудованию,Рэйлинк,60000,Москва,2024-03-07,GO,https://hh.ru/vacancy/93869028
 94044584,Junior strategist / Младший стратег (Web),Go Ahead,,Москва,2024-02-29,GO,https://hh.ru/vacancy/94044584
-94254962,Младший разработчик,Бизнес Технологии,60000,Санкт-Петербург,2024-03-08,Java,https://hh.ru/vacancy/94254962
+94513797,Back-end разработчик (Junior),Just a Team of Creators,,Санкт-Петербург,2024-03-11,Java,https://hh.ru/vacancy/94513797
+94254962,Младший разработчик,Бизнес Технологии,60000,Санкт-Петербург,2024-03-11,Java,https://hh.ru/vacancy/94254962
+94475233,Junior iOs-разработчик на Swift,Nti.team,15000,Москва,2024-03-11,Java,https://hh.ru/vacancy/94475233
 94391819,Intern Data Engineer,Mindbox,35000,Москва,2024-03-07,Java,https://hh.ru/vacancy/94391819
-94255070,Младший разработчик,Бизнес Технологии,60000,Нижний Новгород,2024-03-08,Java,https://hh.ru/vacancy/94255070
-93831328,Junior Java разработчик,Центр цифрового развития,80000,Красноярск,2024-03-06,Java,https://hh.ru/vacancy/93831328
-94255116,Младший разработчик,Бизнес Технологии,60000,Пермь,2024-03-08,Java,https://hh.ru/vacancy/94255116
-93214685,Junior Java Developer,"Trend Soft, студия",70000,Москва,2024-03-09,Java,https://hh.ru/vacancy/93214685
-89753481,"Стажер Back-end разработчика (php, python, c#)",Nti.team,30000,Санкт-Петербург,2024-02-27,Java,https://hh.ru/vacancy/89753481
+93831328,Junior Java разработчик,Центр цифрового развития,45000,Красноярск,2024-03-06,Java,https://hh.ru/vacancy/93831328
+93214685,Junior Java Developer,"Trend Soft, студия",50000,Москва,2024-03-09,Java,https://hh.ru/vacancy/93214685
+94255070,Младший разработчик,Бизнес Технологии,60000,Нижний Новгород,2024-03-11,Java,https://hh.ru/vacancy/94255070
+94255116,Младший разработчик,Бизнес Технологии,60000,Пермь,2024-03-11,Java,https://hh.ru/vacancy/94255116
+89753481,"Стажер Back-end разработчика (php, python, c#)",Nti.team,15000,Санкт-Петербург,2024-03-11,Java,https://hh.ru/vacancy/89753481
+94481923,Junior Data/ML-инженер,"ОЙЛТИМ, Компания",60000,Уфа,2024-03-11,Java,https://hh.ru/vacancy/94481923
 92581565,Начинающий Веб программист (Junior Web-разработчик),"РэйнбовСофт, НПО",,Саратов,2024-03-10,Java,https://hh.ru/vacancy/92581565
+94509289,Программист,ЕМЕ,200000,Москва,2024-03-11,Java,https://hh.ru/vacancy/94509289
 94313345,Junior Rust разработчик (Synapse),SberTech,120000,Москва,2024-03-06,Java,https://hh.ru/vacancy/94313345
 88002912,Junior Software Developer (C/C++/C#),ВСВН Лаб,130000,Санкт-Петербург,2024-03-08,Java,https://hh.ru/vacancy/88002912
+93540310,Младший аналитик (IT),Olima,100000,Москва,2024-03-09,Java,https://hh.ru/vacancy/93540310
 82724356,Java Developer [Junior],Диплей,,Омск,2024-03-02,Java,https://hh.ru/vacancy/82724356
-93811630,Программист Java (Junior),Уфанет,80000,Уфа,2024-02-26,Java,https://hh.ru/vacancy/93811630
-93540310,Младший аналитик (IT),Olima,140000,Москва,2024-03-09,Java,https://hh.ru/vacancy/93540310
-81430574,Junior Android developer,Bip.ru,120000,Москва,2024-03-09,Java,https://hh.ru/vacancy/81430574
-81332521,Junior Kotlin Developer,InlyIT,250000,Новосибирск,2024-03-07,Java,https://hh.ru/vacancy/81332521
-94233577,Стажер автотестирования (Python),ITFB Group,,Екатеринбург,2024-03-04,Java,https://hh.ru/vacancy/94233577
-92762961,"Android developer (Intern, Junior)",Декартус,,Севастополь,2024-03-03,Java,https://hh.ru/vacancy/92762961
-93980296,Junior Java Developer / Junior Java-разработчик,STRONG TEAM,,Ярославль,2024-02-28,Java,https://hh.ru/vacancy/93980296
-94255086,Младший разработчик,Бизнес Технологии,60000,Вологда,2024-03-08,Java,https://hh.ru/vacancy/94255086
-94331338,Junior QA Automation Engineer,СБЕР,,Казань,2024-03-06,Java,https://hh.ru/vacancy/94331338
-93553119,Разработчик (Junior) BigData,АФЛТ-Системс,,Москва,2024-03-09,Java,https://hh.ru/vacancy/93553119
+93811630,Программист Java (Junior),Уфанет,60000,Уфа,2024-02-26,Java,https://hh.ru/vacancy/93811630
+81332521,Junior Kotlin Developer,InlyIT,100000,Новосибирск,2024-03-07,Java,https://hh.ru/vacancy/81332521
+81430574,Junior Android developer,Bip.ru,80000,Москва,2024-03-09,Java,https://hh.ru/vacancy/81430574
+94255086,Младший разработчик,Бизнес Технологии,60000,Вологда,2024-03-11,Java,https://hh.ru/vacancy/94255086
 94048664,Junior Разработчик на SAS RTDM (стажер),Ак Барс Банк,40000,Казань,2024-02-29,Java,https://hh.ru/vacancy/94048664
+94233577,Стажер автотестирования (Python),ITFB Group,,Екатеринбург,2024-03-04,Java,https://hh.ru/vacancy/94233577
+93553119,Разработчик (Junior) BigData,АФЛТ-Системс,,Москва,2024-03-09,Java,https://hh.ru/vacancy/93553119
+94331338,Junior QA Automation Engineer,СБЕР,,Казань,2024-03-06,Java,https://hh.ru/vacancy/94331338
+93980296,Junior Java Developer / Junior Java-разработчик,STRONG TEAM,,Ярославль,2024-02-28,Java,https://hh.ru/vacancy/93980296
+90442047,Junior project manager в web-студию,Nti.team,35000,Санкт-Петербург,2024-03-11,Java,https://hh.ru/vacancy/90442047
+92762961,"Android developer (Intern, Junior)",Декартус,,Севастополь,2024-03-03,Java,https://hh.ru/vacancy/92762961
 82724403,Java Developer [Junior],Диплей,,Новосибирск,2024-03-02,Java,https://hh.ru/vacancy/82724403
-92977061,Стажер автотестирования (Python),ITFB Group,,Москва,2024-03-07,Java,https://hh.ru/vacancy/92977061
-90442047,Junior project manager в web-студию,Nti.team,90000,Санкт-Петербург,2024-02-27,Java,https://hh.ru/vacancy/90442047
-94054249,Стажер автотестирования (Python),ITFB Group,,Самара,2024-02-29,Java,https://hh.ru/vacancy/94054249
-92715286,Junior full-stack developer,Сервис Руки,,Москва,2024-02-29,Java,https://hh.ru/vacancy/92715286
 93338918,Junior Разработчик автотестов (Java),Bell Integrator,,Москва,2024-03-06,Java,https://hh.ru/vacancy/93338918
+92715286,Junior full-stack developer,Сервис Руки,,Москва,2024-02-29,Java,https://hh.ru/vacancy/92715286
+42636573,Backend-разработчик Kotlin/Java (junior),Биллинговый центр,40000,Барнаул,2024-03-04,Java,https://hh.ru/vacancy/42636573
+94054249,Стажер автотестирования (Python),ITFB Group,,Самара,2024-02-29,Java,https://hh.ru/vacancy/94054249
 94054323,Стажер автотестирования (Python),ITFB Group,,Пермь,2024-02-29,Java,https://hh.ru/vacancy/94054323
-42636573,Backend-разработчик Kotlin/Java (junior),Биллинговый центр,63000,Барнаул,2024-03-04,Java,https://hh.ru/vacancy/42636573
-94337715,Junior Разработчик PHP,Стройсервис (Группа предприятий),90000,Кемерово,2024-03-06,Java,https://hh.ru/vacancy/94337715
-93870312,Стажер-аналитик IT-процессов,Райффайзен Банк,,Москва,2024-02-27,Java,https://hh.ru/vacancy/93870312
-93931204,Младший инженер по тестированию (автоматизация),ЦРТ | Группа компаний,,Санкт-Петербург,2024-03-05,Java,https://hh.ru/vacancy/93931204
-93285226,Junior Программист 1С (Стажер),Русские решения,40000,Санкт-Петербург,2024-03-07,Java,https://hh.ru/vacancy/93285226
-92393925,Стажер /младший системный аналитик (отдел внедрения),Солантек,45000,Санкт-Петербург,2024-03-08,Java,https://hh.ru/vacancy/92393925
-92252288,Программист Java/Kotlin (junior),Единый Расчетный Центр,60000,Барнаул,2024-03-06,Java,https://hh.ru/vacancy/92252288
-93089758,Младший системный аналитик,"Ренессанс cтрахование, Группа",,Москва,2024-02-28,Java,https://hh.ru/vacancy/93089758
-92577273,Junior специалист IAM,Газпромбанк,,Москва,2024-02-27,Java,https://hh.ru/vacancy/92577273
-93598816,Младший аналитик,WSS-Consulting,60000,Екатеринбург,2024-03-07,Java,https://hh.ru/vacancy/93598816
-92363247,QA Engineer на мобильную RTS,Gear Games,,Воронеж,2024-03-08,Java,https://hh.ru/vacancy/92363247
-94104874,Младший разработчик Siebel CRM,Nobilis.Team,,Рязань,2024-03-01,Java,https://hh.ru/vacancy/94104874
-86109431,Junior Разработчик C#,Стройсервис (Группа предприятий),109000,Кемерово,2024-02-29,Java,https://hh.ru/vacancy/86109431
+93598816,Младший аналитик,WSS-Consulting,45000,Екатеринбург,2024-03-10,Java,https://hh.ru/vacancy/93598816
 94074418,Системный аналитик (процессинг) - junior,Совкомбанк Технологии,,Новосибирск,2024-03-01,Java,https://hh.ru/vacancy/94074418
-92964281,Junior+/Pre-Middle Android Разработчик Kotlin,amoCRM,80000,Москва,2024-03-07,Java,https://hh.ru/vacancy/92964281
+93931204,Младший инженер по тестированию (автоматизация),ЦРТ | Группа компаний,,Санкт-Петербург,2024-03-05,Java,https://hh.ru/vacancy/93931204
+93870312,Стажер-аналитик IT-процессов,Райффайзен Банк,,Москва,2024-02-27,Java,https://hh.ru/vacancy/93870312
+94337715,Junior Разработчик PHP,Стройсервис (Группа предприятий),90000,Кемерово,2024-03-06,Java,https://hh.ru/vacancy/94337715
+92393925,Стажер /младший системный аналитик (отдел внедрения),Солантек,45000,Санкт-Петербург,2024-03-11,Java,https://hh.ru/vacancy/92393925
+93285226,Junior Программист 1С (Стажер),Русские решения,40000,Санкт-Петербург,2024-03-10,Java,https://hh.ru/vacancy/93285226
+92577273,Junior специалист IAM,Газпромбанк,,Москва,2024-02-27,Java,https://hh.ru/vacancy/92577273
+94104874,Младший разработчик Siebel CRM,Nobilis.Team,,Рязань,2024-03-01,Java,https://hh.ru/vacancy/94104874
+92363247,QA Engineer на мобильную RTS,Gear Games,,Воронеж,2024-03-08,Java,https://hh.ru/vacancy/92363247
+93089758,Младший системный аналитик,"Ренессанс cтрахование, Группа",,Москва,2024-02-28,Java,https://hh.ru/vacancy/93089758
+92252288,Программист Java/Kotlin (junior),Единый Расчетный Центр,35000,Барнаул,2024-03-06,Java,https://hh.ru/vacancy/92252288
+92964281,Junior+/Pre-Middle Android Разработчик Kotlin,amoCRM,80000,Москва,2024-03-10,Java,https://hh.ru/vacancy/92964281
+86109431,Junior Разработчик C#,Стройсервис (Группа предприятий),109000,Кемерово,2024-02-29,Java,https://hh.ru/vacancy/86109431
 94048549,Junior Разработчик на SAS RTDM (стажер),Ак Барс Банк,40000,Иннополис,2024-02-29,Java,https://hh.ru/vacancy/94048549
-88736659,Программист/разработчик RPA (стажер/junior),ЦТР НЕКСТ,40000,Магнитогорск,2024-03-07,Java,https://hh.ru/vacancy/88736659
-91333774,"Junior FullStack-разработчик (PHP, Java Script)",FunFlow (ООО Мобильные Игровые Решения),110000,Москва,2024-02-27,Java,https://hh.ru/vacancy/91333774
-93482951,"Разработчик Scala (Junior), г. Екатеринбург, в офисе",Сервис-Газификация,,Екатеринбург,2024-03-05,Java,https://hh.ru/vacancy/93482951
-91855132,Стажер-аналитик 1С,ПитерСофт,,Санкт-Петербург,2024-03-09,Java,https://hh.ru/vacancy/91855132
+88736659,Программист/разработчик RPA (стажер/junior),ЦТР НЕКСТ,40000,Магнитогорск,2024-03-11,Java,https://hh.ru/vacancy/88736659
 94206930,Младший специалист по подбору персонала,IBS,,Ульяновск,2024-03-04,Java,https://hh.ru/vacancy/94206930
+91333774,"Junior FullStack-разработчик (PHP, Java Script)",FunFlow (ООО Мобильные Игровые Решения),70000,Москва,2024-02-27,Java,https://hh.ru/vacancy/91333774
+91855132,Стажер-аналитик 1С,ПитерСофт,,Санкт-Петербург,2024-03-09,Java,https://hh.ru/vacancy/91855132
+93482951,"Разработчик Scala (Junior), г. Екатеринбург, в офисе",Сервис-Газификация,,Екатеринбург,2024-03-05,Java,https://hh.ru/vacancy/93482951
+93629237,Инженер по нагрузочному тестированию / Performance QA,Selecty,,Москва,2024-02-21,Java,https://hh.ru/vacancy/93629237
 93556330,Младший разработчик RPA,GlowByte,,Москва,2024-02-20,Java,https://hh.ru/vacancy/93556330
 93093698,Младший IT-рекрутер (рессечер) (Москва),Юнитариус,50000,Москва,2024-02-26,Java,https://hh.ru/vacancy/93093698
-93629237,Инженер по нагрузочному тестированию / Performance QA,Selecty,,Москва,2024-02-21,Java,https://hh.ru/vacancy/93629237
-91910382,Специалист службы технической поддержки RPA (стажер/junior),ЦТР НЕКСТ,40000,Магнитогорск,2024-03-04,Java,https://hh.ru/vacancy/91910382
+91910382,Специалист службы технической поддержки RPA (стажер/junior),ЦТР НЕКСТ,40000,Магнитогорск,2024-03-11,Java,https://hh.ru/vacancy/91910382
 93567580,"Преподаватель программирования оффлайн (Roblox, Python)",Алгоритмика (ИП Кочеткова Ирина Анатольевна),,Санкт-Петербург,2024-02-20,Java,https://hh.ru/vacancy/93567580
+94254962,Младший разработчик,Бизнес Технологии,60000,Санкт-Петербург,2024-03-11,C++,https://hh.ru/vacancy/94254962
 93980112,Junior разработчик C++,ДатаГарден,120000,Москва,2024-02-28,C++,https://hh.ru/vacancy/93980112
-94254962,Младший разработчик,Бизнес Технологии,60000,Санкт-Петербург,2024-03-08,C++,https://hh.ru/vacancy/94254962
 94408778,Инженер-программист Junior,НИИТС Синвент,70000,Санкт-Петербург,2024-03-07,C++,https://hh.ru/vacancy/94408778
-94192118,Инженер-программист (junior),ОКБ 78,70000,Санкт-Петербург,2024-03-04,C++,https://hh.ru/vacancy/94192118
+94192118,Инженер-программист (junior),ОКБ 78,40000,Санкт-Петербург,2024-03-04,C++,https://hh.ru/vacancy/94192118
 94391819,Intern Data Engineer,Mindbox,35000,Москва,2024-03-07,C++,https://hh.ru/vacancy/94391819
-94255070,Младший разработчик,Бизнес Технологии,60000,Нижний Новгород,2024-03-08,C++,https://hh.ru/vacancy/94255070
-94255116,Младший разработчик,Бизнес Технологии,60000,Пермь,2024-03-08,C++,https://hh.ru/vacancy/94255116
-93369325,Программист (Junior - младший разработчик),ПТМК,60000,Санкт-Петербург,2024-02-16,C++,https://hh.ru/vacancy/93369325
-94232068,C++ программист / младший инженер-программист,Шамсевалиев Азат Наилович,130000,Москва,2024-03-04,C++,https://hh.ru/vacancy/94232068
+93369325,Программист (Junior - младший разработчик),ПТМК,30000,Санкт-Петербург,2024-02-16,C++,https://hh.ru/vacancy/93369325
+94255070,Младший разработчик,Бизнес Технологии,60000,Нижний Новгород,2024-03-11,C++,https://hh.ru/vacancy/94255070
+94255116,Младший разработчик,Бизнес Технологии,60000,Пермь,2024-03-11,C++,https://hh.ru/vacancy/94255116
+94232068,C++ программист / младший инженер-программист,Шамсевалиев Азат Наилович,110000,Москва,2024-03-04,C++,https://hh.ru/vacancy/94232068
+94509289,Программист,ЕМЕ,200000,Москва,2024-03-11,C++,https://hh.ru/vacancy/94509289
 94262241,Разработчик C++,НАСКА,60000,Псков,2024-03-05,C++,https://hh.ru/vacancy/94262241
-94232069,C++ программист / младший инженер-программист,Шамсевалиев Азат Наилович,130000,Санкт-Петербург,2024-03-04,C++,https://hh.ru/vacancy/94232069
-94313345,Junior Rust разработчик (Synapse),SberTech,120000,Москва,2024-03-06,C++,https://hh.ru/vacancy/94313345
+94232069,C++ программист / младший инженер-программист,Шамсевалиев Азат Наилович,110000,Санкт-Петербург,2024-03-04,C++,https://hh.ru/vacancy/94232069
 93563062,Разработчик С++ (Junior),Дубайт,130000,Москва,2024-03-09,C++,https://hh.ru/vacancy/93563062
+94313345,Junior Rust разработчик (Synapse),SberTech,120000,Москва,2024-03-06,C++,https://hh.ru/vacancy/94313345
 88002912,Junior Software Developer (C/C++/C#),ВСВН Лаб,130000,Санкт-Петербург,2024-03-08,C++,https://hh.ru/vacancy/88002912
-93902549,С++ Junior разработчик,Компания Ритейл Сервис,50000,Барнаул,2024-02-28,C++,https://hh.ru/vacancy/93902549
-94255086,Младший разработчик,Бизнес Технологии,60000,Вологда,2024-03-08,C++,https://hh.ru/vacancy/94255086
+94255086,Младший разработчик,Бизнес Технологии,60000,Вологда,2024-03-11,C++,https://hh.ru/vacancy/94255086
 94048664,Junior Разработчик на SAS RTDM (стажер),Ак Барс Банк,40000,Казань,2024-02-29,C++,https://hh.ru/vacancy/94048664
 69900492,"Младший программист C++ / Junior C++ Developer (Windows, UNIX)",Доктор Веб,,Санкт-Петербург,2024-02-16,C++,https://hh.ru/vacancy/69900492
+93902549,С++ Junior разработчик,Компания Ритейл Сервис,30000,Барнаул,2024-03-11,C++,https://hh.ru/vacancy/93902549
 92525437,Младший научный сотрудник,ФГБУ ЦНИИ ВВС Минобороны России,45000,Москва,2024-03-04,C++,https://hh.ru/vacancy/92525437
+94051165,Стажер PHP Developer (Symfony),IQ GROUP,19000,Тюмень,2024-03-11,C++,https://hh.ru/vacancy/94051165
 92715286,Junior full-stack developer,Сервис Руки,,Москва,2024-02-29,C++,https://hh.ru/vacancy/92715286
-94051165,Стажер PHP Developer (Symfony),IQ GROUP,30000,Тюмень,2024-03-06,C++,https://hh.ru/vacancy/94051165
 94405937,Младший инженер по тестированию систем электрики и электроники,CMT: Change Mobility Together,,Санкт-Петербург,2024-03-07,C++,https://hh.ru/vacancy/94405937
-93285226,Junior Программист 1С (Стажер),Русские решения,40000,Санкт-Петербург,2024-03-07,C++,https://hh.ru/vacancy/93285226
+93598816,Младший аналитик,WSS-Consulting,45000,Екатеринбург,2024-03-10,C++,https://hh.ru/vacancy/93598816
+93285226,Junior Программист 1С (Стажер),Русские решения,40000,Санкт-Петербург,2024-03-10,C++,https://hh.ru/vacancy/93285226
 92577273,Junior специалист IAM,Газпромбанк,,Москва,2024-02-27,C++,https://hh.ru/vacancy/92577273
-92081497,"Младший инженер-программист С++ (офис в Кольцово, НЕ удаленно)",NAVITEL,100000,Новосибирск,2024-02-22,C++,https://hh.ru/vacancy/92081497
-93598816,Младший аналитик,WSS-Consulting,60000,Екатеринбург,2024-03-07,C++,https://hh.ru/vacancy/93598816
-86109431,Junior Разработчик C#,Стройсервис (Группа предприятий),109000,Кемерово,2024-02-29,C++,https://hh.ru/vacancy/86109431
+92081497,"Младший инженер-программист С++ (офис в Кольцово, НЕ удаленно)",NAVITEL,60000,Новосибирск,2024-02-22,C++,https://hh.ru/vacancy/92081497
 93976213,Техник (младший инженер),Минимакс-94,70000,Москва,2024-03-08,C++,https://hh.ru/vacancy/93976213
+86109431,Junior Разработчик C#,Стройсервис (Группа предприятий),109000,Кемерово,2024-02-29,C++,https://hh.ru/vacancy/86109431
+93410890,Младший системный программист Linux C/С++,Базальт СПО,,Обнинск,2024-02-18,C++,https://hh.ru/vacancy/93410890
 92245354,Стажёр-инженер АСУ и КИПиА / Automation junior engineer / Падаван робототехники,Интеллектуальные робот системы,68965,Москва,2024-03-08,C++,https://hh.ru/vacancy/92245354
 94048549,Junior Разработчик на SAS RTDM (стажер),Ак Барс Банк,40000,Иннополис,2024-02-29,C++,https://hh.ru/vacancy/94048549
-93410890,Младший системный программист Linux C/С++,Базальт СПО,,Обнинск,2024-02-18,C++,https://hh.ru/vacancy/93410890
-93204701,Junior C++ разработчик алгоритмов геометрического моделирования,Ледас,70000,Новосибирск,2024-03-09,C++,https://hh.ru/vacancy/93204701
+93204701,Junior C++ разработчик алгоритмов геометрического моделирования,Ледас,40000,Новосибирск,2024-03-09,C++,https://hh.ru/vacancy/93204701
 94025433,Младший программист 1С / Стажер программист 1С,Ромашкина Ирина Сергеевна,,Волгоград,2024-03-09,C++,https://hh.ru/vacancy/94025433
-88736659,Программист/разработчик RPA (стажер/junior),ЦТР НЕКСТ,40000,Магнитогорск,2024-03-07,C++,https://hh.ru/vacancy/88736659
-93883686,Младший программист 1С (Junior),ЛАНИТ,,Москва,2024-03-07,C++,https://hh.ru/vacancy/93883686
+93883686,Младший программист 1С (Junior),ЛАНИТ,,Москва,2024-03-10,C++,https://hh.ru/vacancy/93883686
+88736659,Программист/разработчик RPA (стажер/junior),ЦТР НЕКСТ,40000,Магнитогорск,2024-03-11,C++,https://hh.ru/vacancy/88736659
 89552534,Разработчик встроенных систем (уровня Junior / Middle),НТЦ ЭЛИНС,170000,Химки,2024-03-06,C++,https://hh.ru/vacancy/89552534
-93817958,Младший инженер-физик,Русские Универсальные Системы,,Москва,2024-02-26,C++,https://hh.ru/vacancy/93817958
 91855132,Стажер-аналитик 1С,ПитерСофт,,Санкт-Петербург,2024-03-09,C++,https://hh.ru/vacancy/91855132
+93817958,Младший инженер-физик,Русские Универсальные Системы,,Москва,2024-02-26,C++,https://hh.ru/vacancy/93817958
 89246592,Инженер-программист 3 категории,"Энергомера, Концерн",55000,Невинномысск,2024-02-26,C++,https://hh.ru/vacancy/89246592
-91910382,Специалист службы технической поддержки RPA (стажер/junior),ЦТР НЕКСТ,40000,Магнитогорск,2024-03-04,C++,https://hh.ru/vacancy/91910382
-94191374,Преподаватель IT-дисциплин (младшая школа),ЧУ ДО Московская школа программистов,90000,Санкт-Петербург,2024-03-07,C++,https://hh.ru/vacancy/94191374
+91910382,Специалист службы технической поддержки RPA (стажер/junior),ЦТР НЕКСТ,40000,Магнитогорск,2024-03-11,C++,https://hh.ru/vacancy/91910382
+94191374,Преподаватель IT-дисциплин (младшая школа),ЧУ ДО Московская школа программистов,90000,Санкт-Петербург,2024-03-10,C++,https://hh.ru/vacancy/94191374
 93567580,"Преподаватель программирования оффлайн (Roblox, Python)",Алгоритмика (ИП Кочеткова Ирина Анатольевна),,Санкт-Петербург,2024-02-20,C++,https://hh.ru/vacancy/93567580
-93336196,Преподаватель IT дисциплин,ЧУ ДО Московская школа программистов,160000,Москва,2024-03-08,C++,https://hh.ru/vacancy/93336196
-93449890,Преподаватель IT дисциплин,ЧУ ДО Московская школа программистов,100000,Королев,2024-03-08,C++,https://hh.ru/vacancy/93449890
+93336196,Преподаватель IT дисциплин,ЧУ ДО Московская школа программистов,160000,Москва,2024-03-11,C++,https://hh.ru/vacancy/93336196
+93449890,Преподаватель IT дисциплин,ЧУ ДО Московская школа программистов,100000,Королев,2024-03-11,C++,https://hh.ru/vacancy/93449890
 91655267,Преподаватель ЕГЭ (математика),ЧУ ДО Московская школа программистов,130000,Москва,2024-03-09,C++,https://hh.ru/vacancy/91655267
 93240575,Преподаватель ЕГЭ математика,ЧУ ДО Московская школа программистов,130000,Мытищи,2024-03-09,C++,https://hh.ru/vacancy/93240575
-94450348,Junior Frontend разработчик,EasyDev,60000,Москва,2024-03-09,JS,https://hh.ru/vacancy/94450348
+94473404,Front-end разработчик junior,Nti.team,30000,Санкт-Петербург,2024-03-11,JS,https://hh.ru/vacancy/94473404
+94450348,Junior Frontend разработчик,EasyDev,40000,Москва,2024-03-09,JS,https://hh.ru/vacancy/94450348
+94504459,Frontend-разработчик (Junior frontend developer),amoCRM,,Москва,2024-03-11,JS,https://hh.ru/vacancy/94504459
 94120837,Python junior разработчик,Скиллтеллект,50000,Санкт-Петербург,2024-03-01,JS,https://hh.ru/vacancy/94120837
-94228875,Junior Frontend разработчик,MacBuildServer,50000,Самара,2024-03-07,JS,https://hh.ru/vacancy/94228875
-93969272,Младший (junior) программист Python,Интеллектуальные системы,78750,Воронеж,2024-02-28,JS,https://hh.ru/vacancy/93969272
-93897170,Junior html-верстальщик,Cloud Castle,50000,Самара,2024-02-27,JS,https://hh.ru/vacancy/93897170
+94228875,Junior Frontend разработчик,MacBuildServer,30000,Самара,2024-03-10,JS,https://hh.ru/vacancy/94228875
+94496393,SQL-разработчик (Junior / Trainee),ics-it,50000,Москва,2024-03-11,JS,https://hh.ru/vacancy/94496393
 92330048,Junior Backend Developer,MEDODS,40000,Санкт-Петербург,2024-02-28,JS,https://hh.ru/vacancy/92330048
+93969272,Младший (junior) программист Python,Интеллектуальные системы,37050,Воронеж,2024-02-28,JS,https://hh.ru/vacancy/93969272
 93775994,Стажер-программист,ICL Services,,Казань,2024-02-26,JS,https://hh.ru/vacancy/93775994
-93735388,Junior+ Frontend developer,Friend Lee,90000,Москва,2024-03-08,JS,https://hh.ru/vacancy/93735388
-94416276,Младший специалист по искусственному интеллекту (ML),Аривист,50000,Санкт-Петербург,2024-03-07,JS,https://hh.ru/vacancy/94416276
+93735388,Junior+ Frontend developer,Friend Lee,50000,Москва,2024-03-11,JS,https://hh.ru/vacancy/93735388
+93897170,Junior html-верстальщик,Cloud Castle,40000,Самара,2024-02-27,JS,https://hh.ru/vacancy/93897170
 91849357,Junior Backend-разработчик,Программные Системы,50000,Екатеринбург,2024-03-08,JS,https://hh.ru/vacancy/91849357
-93889397,Frontend-разработчик (junior),Волга-Волга,50000,Нижний Новгород,2024-02-27,JS,https://hh.ru/vacancy/93889397
-93831328,Junior Java разработчик,Центр цифрового развития,80000,Красноярск,2024-03-06,JS,https://hh.ru/vacancy/93831328
+94416276,Младший специалист по искусственному интеллекту (ML),Аривист,45000,Санкт-Петербург,2024-03-07,JS,https://hh.ru/vacancy/94416276
 93758409,Frontend-разработчик (Junior),ИНТАС-Компани,60000,Уфа,2024-02-26,JS,https://hh.ru/vacancy/93758409
-93766959,Junior - программист,SMART-SHOP,80000,Казань,2024-02-26,JS,https://hh.ru/vacancy/93766959
-93214685,Junior Java Developer,"Trend Soft, студия",70000,Москва,2024-03-09,JS,https://hh.ru/vacancy/93214685
+93369325,Программист (Junior - младший разработчик),ПТМК,30000,Санкт-Петербург,2024-02-16,JS,https://hh.ru/vacancy/93369325
+93725652,Trainee/Intern/Junior Python backend developer,Рекруто,10000,Санкт-Петербург,2024-02-24,JS,https://hh.ru/vacancy/93725652
+93889397,Frontend-разработчик (junior),Волга-Волга,50000,Нижний Новгород,2024-02-27,JS,https://hh.ru/vacancy/93889397
 93506077,Стажер/Junior тестировщик ПО (регресс),ГУТАКС,,Ижевск,2024-02-20,JS,https://hh.ru/vacancy/93506077
-93725652,Trainee/Intern/Junior Python backend developer,Рекруто,60000,Санкт-Петербург,2024-02-24,JS,https://hh.ru/vacancy/93725652
-87977377,Junior HTML-верстальщик (стажер),Comrade Web Agency,30000,Волгоград,2024-02-17,JS,https://hh.ru/vacancy/87977377
-93861548,Junior Next.JS/React разработчик,Быков Василий Сергеевич,50000,Москва,2024-03-07,JS,https://hh.ru/vacancy/93861548
-93369325,Программист (Junior - младший разработчик),ПТМК,60000,Санкт-Петербург,2024-02-16,JS,https://hh.ru/vacancy/93369325
-89753481,"Стажер Back-end разработчика (php, python, c#)",Nti.team,30000,Санкт-Петербург,2024-02-27,JS,https://hh.ru/vacancy/89753481
+93831328,Junior Java разработчик,Центр цифрового развития,45000,Красноярск,2024-03-06,JS,https://hh.ru/vacancy/93831328
+93214685,Junior Java Developer,"Trend Soft, студия",50000,Москва,2024-03-09,JS,https://hh.ru/vacancy/93214685
 93157592,HTML-верстальщик,Traffic Dojo,40000,Пермь,2024-03-08,JS,https://hh.ru/vacancy/93157592
+93766959,Junior - программист,SMART-SHOP,80000,Казань,2024-02-26,JS,https://hh.ru/vacancy/93766959
+87977377,Junior HTML-верстальщик (стажер),Comrade Web Agency,30000,Волгоград,2024-02-17,JS,https://hh.ru/vacancy/87977377
+93919883,Junior Frontend - разработчик,Программные Системы,50000,Екатеринбург,2024-03-11,JS,https://hh.ru/vacancy/93919883
+93861548,Junior Next.JS/React разработчик,Быков Василий Сергеевич,30000,Москва,2024-03-10,JS,https://hh.ru/vacancy/93861548
+89753481,"Стажер Back-end разработчика (php, python, c#)",Nti.team,15000,Санкт-Петербург,2024-03-11,JS,https://hh.ru/vacancy/89753481
 92581565,Начинающий Веб программист (Junior Web-разработчик),"РэйнбовСофт, НПО",,Саратов,2024-03-10,JS,https://hh.ru/vacancy/92581565
-93919883,Junior Frontend - разработчик,Программные Системы,50000,Екатеринбург,2024-03-08,JS,https://hh.ru/vacancy/93919883
-93844847,Junior C#/.NET6 разработчик,WSS-Consulting,60000,Москва,2024-03-07,JS,https://hh.ru/vacancy/93844847
-93774280,Младший программист C# (Junior C#),Центр информационно-коммуникационных технологий,80000,Москва,2024-03-09,JS,https://hh.ru/vacancy/93774280
-93811630,Программист Java (Junior),Уфанет,80000,Уфа,2024-02-26,JS,https://hh.ru/vacancy/93811630
+93774280,Младший программист C# (Junior C#),Центр информационно-коммуникационных технологий,70000,Москва,2024-03-09,JS,https://hh.ru/vacancy/93774280
+94509289,Программист,ЕМЕ,200000,Москва,2024-03-11,JS,https://hh.ru/vacancy/94509289
+93844847,Junior C#/.NET6 разработчик,WSS-Consulting,60000,Москва,2024-03-10,JS,https://hh.ru/vacancy/93844847
+80127090,Web-программист (Junior),Agile Digital Lab,40000,Барнаул,2024-03-11,JS,https://hh.ru/vacancy/80127090
+87838735,Junior Fullstack Разработчик (JS + SQL),Рекрутинговое агентство The One,90000,Москва,2024-02-27,JS,https://hh.ru/vacancy/87838735
 90719099,Junior developer,Ариороса,15000,Волгоград,2024-02-26,JS,https://hh.ru/vacancy/90719099
-93558913,Junior Web программист PHP + MySQL + JS,Фидживеб,40000,Уфа,2024-03-01,JS,https://hh.ru/vacancy/93558913
-93902549,С++ Junior разработчик,Компания Ритейл Сервис,50000,Барнаул,2024-02-28,JS,https://hh.ru/vacancy/93902549
-92491921,Стажёр Backend Developer в команду GR,VK,60000,Москва,2024-02-22,JS,https://hh.ru/vacancy/92491921
-93540310,Младший аналитик (IT),Olima,140000,Москва,2024-03-09,JS,https://hh.ru/vacancy/93540310
-94141836,QA Инженер по Автоматизированному Тестированию (Junior),Виолентов Иван Андреевич,80000,Санкт-Петербург,2024-03-02,JS,https://hh.ru/vacancy/94141836
-87838735,Junior Fullstack Разработчик (JS + SQL),Рекрутинговое агентство The One,200000,Москва,2024-02-27,JS,https://hh.ru/vacancy/87838735
-94338958,Frontend Developer (Angular),Effective Mobile,100000,Москва,2024-03-06,JS,https://hh.ru/vacancy/94338958
 94052119,SQL-разработчик (Junior / Trainee),ics-it,,Чебоксары,2024-03-09,JS,https://hh.ru/vacancy/94052119
+93540310,Младший аналитик (IT),Olima,100000,Москва,2024-03-09,JS,https://hh.ru/vacancy/93540310
+93558913,Junior Web программист PHP + MySQL + JS,Фидживеб,30000,Уфа,2024-03-01,JS,https://hh.ru/vacancy/93558913
+93811630,Программист Java (Junior),Уфанет,60000,Уфа,2024-02-26,JS,https://hh.ru/vacancy/93811630
+92491921,Стажёр Backend Developer в команду GR,VK,60000,Москва,2024-02-22,JS,https://hh.ru/vacancy/92491921
+94141836,QA Инженер по Автоматизированному Тестированию (Junior),Виолентов Иван Андреевич,20000,Санкт-Петербург,2024-03-02,JS,https://hh.ru/vacancy/94141836
+93927545,Junior Fullstack-разработчик,Rocket Business,35000,Ростов-на-Дону,2024-02-28,JS,https://hh.ru/vacancy/93927545
+94338958,Frontend Developer (Angular),Effective Mobile,50000,Москва,2024-03-06,JS,https://hh.ru/vacancy/94338958
+93902549,С++ Junior разработчик,Компания Ритейл Сервис,30000,Барнаул,2024-03-11,JS,https://hh.ru/vacancy/93902549
 92416802,Стажер-программист PHP,Веб студия СКАЙВЕБ24,40000,Красноярск,2024-02-21,JS,https://hh.ru/vacancy/92416802
-90442047,Junior project manager в web-студию,Nti.team,90000,Санкт-Петербург,2024-02-27,JS,https://hh.ru/vacancy/90442047
-93927545,Junior Fullstack-разработчик,Rocket Business,70000,Ростов-на-Дону,2024-02-28,JS,https://hh.ru/vacancy/93927545
+90442047,Junior project manager в web-студию,Nti.team,35000,Санкт-Петербург,2024-03-11,JS,https://hh.ru/vacancy/90442047
+90826058,Junior Fullstack разработчик,Wanted,45000,Санкт-Петербург,2024-02-15,JS,https://hh.ru/vacancy/90826058
 93415278,Junior nodejs-разработчик,Brave Developers,30000,Ижевск,2024-02-18,JS,https://hh.ru/vacancy/93415278
-92715286,Junior full-stack developer,Сервис Руки,,Москва,2024-02-29,JS,https://hh.ru/vacancy/92715286
+94172635,Программист 1С (Junior),Мебельная фабрика Любимая кухня,80000,Екатеринбург,2024-03-10,JS,https://hh.ru/vacancy/94172635
 93845143,PHP-программист (Junior),ПромоЛинк,60000,Нижний Новгород,2024-02-27,JS,https://hh.ru/vacancy/93845143
-90826058,Junior Fullstack разработчик,Wanted,100000,Санкт-Петербург,2024-02-15,JS,https://hh.ru/vacancy/90826058
+94051165,Стажер PHP Developer (Symfony),IQ GROUP,19000,Тюмень,2024-03-11,JS,https://hh.ru/vacancy/94051165
 92818783,Младший фронтенд разработчик (Vue.js),НаПоправку,,Санкт-Петербург,2024-02-23,JS,https://hh.ru/vacancy/92818783
-93554827,Стажер-тестировщик,КРОК,,Москва,2024-02-20,JS,https://hh.ru/vacancy/93554827
-94051165,Стажер PHP Developer (Symfony),IQ GROUP,30000,Тюмень,2024-03-06,JS,https://hh.ru/vacancy/94051165
-92354159,Программист 1С (стажер / младший),ЭРКОН,150000,Москва,2024-03-09,JS,https://hh.ru/vacancy/92354159
-93933908,Junior php-разработчик,Adv.Cake,,Москва,2024-03-08,JS,https://hh.ru/vacancy/93933908
-93272544,Junior разработчик,НВК Космософт,,Королев,2024-02-15,JS,https://hh.ru/vacancy/93272544
+92715286,Junior full-stack developer,Сервис Руки,,Москва,2024-02-29,JS,https://hh.ru/vacancy/92715286
+92354159,Программист 1С (стажер / младший),ЭРКОН,30000,Москва,2024-03-09,JS,https://hh.ru/vacancy/92354159
 93617293,Backend php разработчик (Junior),ИНТАС-Компани,60000,Уфа,2024-02-21,JS,https://hh.ru/vacancy/93617293
-92675602,"Junior разработчик.Net (JavaScript (Vue), C#)",ДельтаЛизинг,,Владивосток,2024-03-09,JS,https://hh.ru/vacancy/92675602
 92733178,Web-разработчик (Junior PHP),X3Group,20000,Барнаул,2024-03-06,JS,https://hh.ru/vacancy/92733178
+93933908,Junior php-разработчик,Adv.Cake,,Москва,2024-03-08,JS,https://hh.ru/vacancy/93933908
 93918659,Стажер/PHP-программист,OpenStart,30000,Санкт-Петербург,2024-02-28,JS,https://hh.ru/vacancy/93918659
+92675602,"Junior разработчик.Net (JavaScript (Vue), C#)",ДельтаЛизинг,,Владивосток,2024-03-09,JS,https://hh.ru/vacancy/92675602
 94337715,Junior Разработчик PHP,Стройсервис (Группа предприятий),90000,Кемерово,2024-03-06,JS,https://hh.ru/vacancy/94337715
-93886819,PHP разработчик (junior),"Дельтаинком, ЦИТ",60000,Казань,2024-03-07,JS,https://hh.ru/vacancy/93886819
-93297809,PHP-разработчик (junior),Экспресс РМС,50000,Тула,2024-03-07,JS,https://hh.ru/vacancy/93297809
-93874340,Junior-разработчик на PHP,Ведисофт,70000,Екатеринбург,2024-02-27,JS,https://hh.ru/vacancy/93874340
-93447921,Junior fullstack-разработчик,"Текарт, консалтинговая группа",,Тула,2024-03-04,JS,https://hh.ru/vacancy/93447921
+93874340,Junior-разработчик на PHP,Ведисофт,25000,Екатеринбург,2024-02-27,JS,https://hh.ru/vacancy/93874340
 92833597,Junior Low-Code developer / Бизнес-аналитик,DBI,,Ростов-на-Дону,2024-03-06,JS,https://hh.ru/vacancy/92833597
+93447921,Junior fullstack-разработчик,"Текарт, консалтинговая группа",,Тула,2024-03-04,JS,https://hh.ru/vacancy/93447921
+93297809,PHP-разработчик (junior),Экспресс РМС,50000,Тула,2024-03-10,JS,https://hh.ru/vacancy/93297809
 92577273,Junior специалист IAM,Газпромбанк,,Москва,2024-02-27,JS,https://hh.ru/vacancy/92577273
-92081497,"Младший инженер-программист С++ (офис в Кольцово, НЕ удаленно)",NAVITEL,100000,Новосибирск,2024-02-22,JS,https://hh.ru/vacancy/92081497
-92687865,Junior frontend разработчик (Angular),Декартус,,Севастополь,2024-03-03,JS,https://hh.ru/vacancy/92687865
-91483163,Младший аналитик в команду поисковых систем сервиса путешествий,Туту.ру,,Москва,2024-03-09,JS,https://hh.ru/vacancy/91483163
-91386648,Junior C#/.NET 7 разработчик,WSS-Consulting,,Москва,2024-03-07,JS,https://hh.ru/vacancy/91386648
-93961274,"Программист (PHP, Битрикс) Junior",Дрим Тим,120000,Краснодар,2024-02-28,JS,https://hh.ru/vacancy/93961274
 94104874,Младший разработчик Siebel CRM,Nobilis.Team,,Рязань,2024-03-01,JS,https://hh.ru/vacancy/94104874
-92324430,PHP-программист (Junior),Компания Intelsib,40000,Новосибирск,2024-03-08,JS,https://hh.ru/vacancy/92324430
+92324430,PHP-программист (Junior),Компания Intelsib,30000,Новосибирск,2024-03-11,JS,https://hh.ru/vacancy/92324430
+91483163,Младший аналитик в команду поисковых систем сервиса путешествий,Туту.ру,,Москва,2024-03-09,JS,https://hh.ru/vacancy/91483163
+93961274,"Программист (PHP, Битрикс) Junior",Дрим Тим,65000,Краснодар,2024-02-28,JS,https://hh.ru/vacancy/93961274
+92081497,"Младший инженер-программист С++ (офис в Кольцово, НЕ удаленно)",NAVITEL,60000,Новосибирск,2024-02-22,JS,https://hh.ru/vacancy/92081497
+94500858,Разработчик Битрикс 24 (junior),GloraX,50000,Санкт-Петербург,2024-03-11,JS,https://hh.ru/vacancy/94500858
 93976213,Техник (младший инженер),Минимакс-94,70000,Москва,2024-03-08,JS,https://hh.ru/vacancy/93976213
-90904062,Младший PHP программист / разработчик сайтов,RiniGroup,55000,Дубна,2024-02-19,JS,https://hh.ru/vacancy/90904062
-93423582,Младший web-аналитик / веб-аналитик,Компания Intelsib,35000,Новосибирск,2024-03-08,JS,https://hh.ru/vacancy/93423582
-93204701,Junior C++ разработчик алгоритмов геометрического моделирования,Ледас,70000,Новосибирск,2024-03-09,JS,https://hh.ru/vacancy/93204701
-93883686,Младший программист 1С (Junior),ЛАНИТ,,Москва,2024-03-07,JS,https://hh.ru/vacancy/93883686
+92687865,Junior frontend разработчик (Angular),Декартус,,Севастополь,2024-03-03,JS,https://hh.ru/vacancy/92687865
+93423582,Младший web-аналитик / веб-аналитик,Компания Intelsib,30000,Новосибирск,2024-03-11,JS,https://hh.ru/vacancy/93423582
+93204701,Junior C++ разработчик алгоритмов геометрического моделирования,Ледас,40000,Новосибирск,2024-03-09,JS,https://hh.ru/vacancy/93204701
+90904062,Младший PHP программист / разработчик сайтов,RiniGroup,40000,Дубна,2024-02-19,JS,https://hh.ru/vacancy/90904062
+93883686,Младший программист 1С (Junior),ЛАНИТ,,Москва,2024-03-10,JS,https://hh.ru/vacancy/93883686
 92540622,1С-Битрикс разработчик Junior/Middle,Группа компаний OPTI,100000,Челябинск,2024-03-08,JS,https://hh.ru/vacancy/92540622
-87117314,Программист C# (Junior),ПРОГРАММНЫЙ ЦЕНТР,58000,Киров (Кировская область),2024-03-06,JS,https://hh.ru/vacancy/87117314
-91333774,"Junior FullStack-разработчик (PHP, Java Script)",FunFlow (ООО Мобильные Игровые Решения),110000,Москва,2024-02-27,JS,https://hh.ru/vacancy/91333774
-53327903,"Web-программист (PHP, Fullstack, Junior)",ПРОГРАММНЫЙ ЦЕНТР,58000,Киров (Кировская область),2024-03-06,JS,https://hh.ru/vacancy/53327903
-94191374,Преподаватель IT-дисциплин (младшая школа),ЧУ ДО Московская школа программистов,90000,Санкт-Петербург,2024-03-07,JS,https://hh.ru/vacancy/94191374
-93336196,Преподаватель IT дисциплин,ЧУ ДО Московская школа программистов,160000,Москва,2024-03-08,JS,https://hh.ru/vacancy/93336196
-93449890,Преподаватель IT дисциплин,ЧУ ДО Московская школа программистов,100000,Королев,2024-03-08,JS,https://hh.ru/vacancy/93449890
+87117314,Программист C# (Junior),ПРОГРАММНЫЙ ЦЕНТР,35000,Киров (Кировская область),2024-03-11,JS,https://hh.ru/vacancy/87117314
+91333774,"Junior FullStack-разработчик (PHP, Java Script)",FunFlow (ООО Мобильные Игровые Решения),70000,Москва,2024-02-27,JS,https://hh.ru/vacancy/91333774
+53327903,"Web-программист (PHP, Fullstack, Junior)",ПРОГРАММНЫЙ ЦЕНТР,40000,Киров (Кировская область),2024-03-11,JS,https://hh.ru/vacancy/53327903
+94191374,Преподаватель IT-дисциплин (младшая школа),ЧУ ДО Московская школа программистов,90000,Санкт-Петербург,2024-03-10,JS,https://hh.ru/vacancy/94191374
+93336196,Преподаватель IT дисциплин,ЧУ ДО Московская школа программистов,160000,Москва,2024-03-11,JS,https://hh.ru/vacancy/93336196
+93449890,Преподаватель IT дисциплин,ЧУ ДО Московская школа программистов,100000,Королев,2024-03-11,JS,https://hh.ru/vacancy/93449890
 91655267,Преподаватель ЕГЭ (математика),ЧУ ДО Московская школа программистов,130000,Москва,2024-03-09,JS,https://hh.ru/vacancy/91655267
 93240575,Преподаватель ЕГЭ математика,ЧУ ДО Московская школа программистов,130000,Мытищи,2024-03-09,JS,https://hh.ru/vacancy/93240575
 94369217,Junior разработчик С#,"АРМО, ГК",,Москва,2024-03-06,C#,https://hh.ru/vacancy/94369217
 94401144,Младший разработчик C#,РТСИМ,40000,Казань,2024-03-07,C#,https://hh.ru/vacancy/94401144
+94513797,Back-end разработчик (Junior),Just a Team of Creators,,Санкт-Петербург,2024-03-11,C#,https://hh.ru/vacancy/94513797
 93775994,Стажер-программист,ICL Services,,Казань,2024-02-26,C#,https://hh.ru/vacancy/93775994
 94391819,Intern Data Engineer,Mindbox,35000,Москва,2024-03-07,C#,https://hh.ru/vacancy/94391819
-94416276,Младший специалист по искусственному интеллекту (ML),Аривист,50000,Санкт-Петербург,2024-03-07,C#,https://hh.ru/vacancy/94416276
-94164673,Программист C# (уровень Junior),Негоциант Стандарт Дистрибьюшн,75000,Владивосток,2024-03-04,C#,https://hh.ru/vacancy/94164673
+94416276,Младший специалист по искусственному интеллекту (ML),Аривист,45000,Санкт-Петербург,2024-03-07,C#,https://hh.ru/vacancy/94416276
+93369325,Программист (Junior - младший разработчик),ПТМК,30000,Санкт-Петербург,2024-02-16,C#,https://hh.ru/vacancy/93369325
+94408686,Junior mobile developer (.Net),UDV Group,,Екатеринбург,2024-03-10,C#,https://hh.ru/vacancy/94408686
 91812755,Junior Game Designer,Фандог,,Санкт-Петербург,2024-03-04,C#,https://hh.ru/vacancy/91812755
-94408686,Junior mobile developer (.Net),UDV Group,,Екатеринбург,2024-03-07,C#,https://hh.ru/vacancy/94408686
-93369325,Программист (Junior - младший разработчик),ПТМК,60000,Санкт-Петербург,2024-02-16,C#,https://hh.ru/vacancy/93369325
-89753481,"Стажер Back-end разработчика (php, python, c#)",Nti.team,30000,Санкт-Петербург,2024-02-27,C#,https://hh.ru/vacancy/89753481
-94320232,Cпециалист сопровождения ПО,Сеть аптек Апрель,70000,Краснодар,2024-03-06,C#,https://hh.ru/vacancy/94320232
+94164673,Программист C# (уровень Junior),Негоциант Стандарт Дистрибьюшн,50000,Владивосток,2024-03-04,C#,https://hh.ru/vacancy/94164673
+89753481,"Стажер Back-end разработчика (php, python, c#)",Nti.team,15000,Санкт-Петербург,2024-03-11,C#,https://hh.ru/vacancy/89753481
+93774280,Младший программист C# (Junior C#),Центр информационно-коммуникационных технологий,70000,Москва,2024-03-09,C#,https://hh.ru/vacancy/93774280
+94509289,Программист,ЕМЕ,200000,Москва,2024-03-11,C#,https://hh.ru/vacancy/94509289
+93844847,Junior C#/.NET6 разработчик,WSS-Consulting,60000,Москва,2024-03-10,C#,https://hh.ru/vacancy/93844847
+94320232,Cпециалист сопровождения ПО,Сеть аптек Апрель,65000,Краснодар,2024-03-06,C#,https://hh.ru/vacancy/94320232
 94313345,Junior Rust разработчик (Synapse),SberTech,120000,Москва,2024-03-06,C#,https://hh.ru/vacancy/94313345
-93844847,Junior C#/.NET6 разработчик,WSS-Consulting,60000,Москва,2024-03-07,C#,https://hh.ru/vacancy/93844847
 88002912,Junior Software Developer (C/C++/C#),ВСВН Лаб,130000,Санкт-Петербург,2024-03-08,C#,https://hh.ru/vacancy/88002912
-93774280,Младший программист C# (Junior C#),Центр информационно-коммуникационных технологий,80000,Москва,2024-03-09,C#,https://hh.ru/vacancy/93774280
+93540310,Младший аналитик (IT),Olima,100000,Москва,2024-03-09,C#,https://hh.ru/vacancy/93540310
 93819244,Стажер Академии IT,ГАЗ,,Нижний Новгород,2024-03-07,C#,https://hh.ru/vacancy/93819244
-93540310,Младший аналитик (IT),Olima,140000,Москва,2024-03-09,C#,https://hh.ru/vacancy/93540310
 93543632,Junior Data engineer (Дата инженер),Тим,,Москва,2024-03-09,C#,https://hh.ru/vacancy/93543632
 94233577,Стажер автотестирования (Python),ITFB Group,,Екатеринбург,2024-03-04,C#,https://hh.ru/vacancy/94233577
-94205894,Junior .NET Developer,Северные интеллектуальные решения,50000,Череповец,2024-03-04,C#,https://hh.ru/vacancy/94205894
-92977061,Стажер автотестирования (Python),ITFB Group,,Москва,2024-03-07,C#,https://hh.ru/vacancy/92977061
-94054249,Стажер автотестирования (Python),ITFB Group,,Самара,2024-02-29,C#,https://hh.ru/vacancy/94054249
-93768087,Младший программист C#,ЕРЦ,50000,Екатеринбург,2024-03-07,C#,https://hh.ru/vacancy/93768087
+93768087,Младший программист C#,ЕРЦ,40000,Екатеринбург,2024-03-07,C#,https://hh.ru/vacancy/93768087
+94205894,Junior .NET Developer,Северные интеллектуальные решения,30000,Череповец,2024-03-04,C#,https://hh.ru/vacancy/94205894
 78367597,Junior IT специалист,АБК,35000,Орел,2024-02-16,C#,https://hh.ru/vacancy/78367597
+93186344,Junior C# разработчик (в офис компании),ADVANTSHOP,50000,Ульяновск,2024-03-11,C#,https://hh.ru/vacancy/93186344
+94054249,Стажер автотестирования (Python),ITFB Group,,Самара,2024-02-29,C#,https://hh.ru/vacancy/94054249
 94054323,Стажер автотестирования (Python),ITFB Group,,Пермь,2024-02-29,C#,https://hh.ru/vacancy/94054323
-93272544,Junior разработчик,НВК Космософт,,Королев,2024-02-15,C#,https://hh.ru/vacancy/93272544
-93245258,Разработчик,Гарант-Чебоксары,120000,Чебоксары,2024-03-09,C#,https://hh.ru/vacancy/93245258
+93245258,Разработчик,Гарант-Чебоксары,40000,Чебоксары,2024-03-09,C#,https://hh.ru/vacancy/93245258
 92675602,"Junior разработчик.Net (JavaScript (Vue), C#)",ДельтаЛизинг,,Владивосток,2024-03-09,C#,https://hh.ru/vacancy/92675602
+93598816,Младший аналитик,WSS-Consulting,45000,Екатеринбург,2024-03-10,C#,https://hh.ru/vacancy/93598816
 93931204,Младший инженер по тестированию (автоматизация),ЦРТ | Группа компаний,,Санкт-Петербург,2024-03-05,C#,https://hh.ru/vacancy/93931204
-93285226,Junior Программист 1С (Стажер),Русские решения,40000,Санкт-Петербург,2024-03-07,C#,https://hh.ru/vacancy/93285226
+93285226,Junior Программист 1С (Стажер),Русские решения,40000,Санкт-Петербург,2024-03-10,C#,https://hh.ru/vacancy/93285226
 92577273,Junior специалист IAM,Газпромбанк,,Москва,2024-02-27,C#,https://hh.ru/vacancy/92577273
-93598816,Младший аналитик,WSS-Consulting,60000,Екатеринбург,2024-03-07,C#,https://hh.ru/vacancy/93598816
-91386648,Junior C#/.NET 7 разработчик,WSS-Consulting,,Москва,2024-03-07,C#,https://hh.ru/vacancy/91386648
-92363247,QA Engineer на мобильную RTS,Gear Games,,Воронеж,2024-03-08,C#,https://hh.ru/vacancy/92363247
 94104874,Младший разработчик Siebel CRM,Nobilis.Team,,Рязань,2024-03-01,C#,https://hh.ru/vacancy/94104874
-89288678,IT инженер в области технологических информационных систем (Junior),НТЦ Комплексные Системы,50000,Челябинск,2024-03-09,C#,https://hh.ru/vacancy/89288678
+92363247,QA Engineer на мобильную RTS,Gear Games,,Воронеж,2024-03-08,C#,https://hh.ru/vacancy/92363247
 86109431,Junior Разработчик C#,Стройсервис (Группа предприятий),109000,Кемерово,2024-02-29,C#,https://hh.ru/vacancy/86109431
 92245354,Стажёр-инженер АСУ и КИПиА / Automation junior engineer / Падаван робототехники,Интеллектуальные робот системы,68965,Москва,2024-03-08,C#,https://hh.ru/vacancy/92245354
-93204701,Junior C++ разработчик алгоритмов геометрического моделирования,Ледас,70000,Новосибирск,2024-03-09,C#,https://hh.ru/vacancy/93204701
+89288678,IT инженер в области технологических информационных систем (Junior),НТЦ Комплексные Системы,30000,Челябинск,2024-03-09,C#,https://hh.ru/vacancy/89288678
+93204701,Junior C++ разработчик алгоритмов геометрического моделирования,Ледас,40000,Новосибирск,2024-03-09,C#,https://hh.ru/vacancy/93204701
 94025433,Младший программист 1С / Стажер программист 1С,Ромашкина Ирина Сергеевна,,Волгоград,2024-03-09,C#,https://hh.ru/vacancy/94025433
-88736659,Программист/разработчик RPA (стажер/junior),ЦТР НЕКСТ,40000,Магнитогорск,2024-03-07,C#,https://hh.ru/vacancy/88736659
 93734486,С# Senior,Рекруто,250000,Санкт-Петербург,2024-02-25,C#,https://hh.ru/vacancy/93734486
-87117314,Программист C# (Junior),ПРОГРАММНЫЙ ЦЕНТР,58000,Киров (Кировская область),2024-03-06,C#,https://hh.ru/vacancy/87117314
-53327903,"Web-программист (PHP, Fullstack, Junior)",ПРОГРАММНЫЙ ЦЕНТР,58000,Киров (Кировская область),2024-03-06,C#,https://hh.ru/vacancy/53327903
+87117314,Программист C# (Junior),ПРОГРАММНЫЙ ЦЕНТР,35000,Киров (Кировская область),2024-03-11,C#,https://hh.ru/vacancy/87117314
+88736659,Программист/разработчик RPA (стажер/junior),ЦТР НЕКСТ,40000,Магнитогорск,2024-03-11,C#,https://hh.ru/vacancy/88736659
+53327903,"Web-программист (PHP, Fullstack, Junior)",ПРОГРАММНЫЙ ЦЕНТР,40000,Киров (Кировская область),2024-03-11,C#,https://hh.ru/vacancy/53327903
 93556330,Младший разработчик RPA,GlowByte,,Москва,2024-02-20,C#,https://hh.ru/vacancy/93556330
-91910382,Специалист службы технической поддержки RPA (стажер/junior),ЦТР НЕКСТ,40000,Магнитогорск,2024-03-04,C#,https://hh.ru/vacancy/91910382
-94191374,Преподаватель IT-дисциплин (младшая школа),ЧУ ДО Московская школа программистов,90000,Санкт-Петербург,2024-03-07,C#,https://hh.ru/vacancy/94191374
+91910382,Специалист службы технической поддержки RPA (стажер/junior),ЦТР НЕКСТ,40000,Магнитогорск,2024-03-11,C#,https://hh.ru/vacancy/91910382
+94191374,Преподаватель IT-дисциплин (младшая школа),ЧУ ДО Московская школа программистов,90000,Санкт-Петербург,2024-03-10,C#,https://hh.ru/vacancy/94191374
 93567580,"Преподаватель программирования оффлайн (Roblox, Python)",Алгоритмика (ИП Кочеткова Ирина Анатольевна),,Санкт-Петербург,2024-02-20,C#,https://hh.ru/vacancy/93567580
-93336196,Преподаватель IT дисциплин,ЧУ ДО Московская школа программистов,160000,Москва,2024-03-08,C#,https://hh.ru/vacancy/93336196
-93449890,Преподаватель IT дисциплин,ЧУ ДО Московская школа программистов,100000,Королев,2024-03-08,C#,https://hh.ru/vacancy/93449890
+93336196,Преподаватель IT дисциплин,ЧУ ДО Московская школа программистов,160000,Москва,2024-03-11,C#,https://hh.ru/vacancy/93336196
+93449890,Преподаватель IT дисциплин,ЧУ ДО Московская школа программистов,100000,Королев,2024-03-11,C#,https://hh.ru/vacancy/93449890
 91655267,Преподаватель ЕГЭ (математика),ЧУ ДО Московская школа программистов,130000,Москва,2024-03-09,C#,https://hh.ru/vacancy/91655267
 93240575,Преподаватель ЕГЭ математика,ЧУ ДО Московская школа программистов,130000,Мытищи,2024-03-09,C#,https://hh.ru/vacancy/93240575
-94114941,Junior-разработчик,Планетра,60000,Москва,2024-03-07,R,https://hh.ru/vacancy/94114941
-94403212,Junior-разработчик,Планетра,60000,Екатеринбург,2024-03-07,R,https://hh.ru/vacancy/94403212
-94114982,Junior-разработчик,Планетра,60000,Санкт-Петербург,2024-03-07,R,https://hh.ru/vacancy/94114982
+94114941,Junior-разработчик,Планетра,60000,Москва,2024-03-10,R,https://hh.ru/vacancy/94114941
+94403212,Junior-разработчик,Планетра,60000,Екатеринбург,2024-03-10,R,https://hh.ru/vacancy/94403212
+94114982,Junior-разработчик,Планетра,60000,Санкт-Петербург,2024-03-10,R,https://hh.ru/vacancy/94114982
 92816235,Project manager Junior,CRTEX,70000,Москва,2024-03-07,R,https://hh.ru/vacancy/92816235
-93769785,Junior Data Scientist,Рекрутинговое агентство The One,100000,Новосибирск,2024-02-26,R,https://hh.ru/vacancy/93769785
-94120582,Junior-разработчик,Планетра,60000,Казань,2024-03-07,R,https://hh.ru/vacancy/94120582
-93261854,Junior C&B,Эр-1,,Пермь,2024-02-27,R,https://hh.ru/vacancy/93261854
+93769785,Junior Data Scientist,Рекрутинговое агентство The One,70000,Новосибирск,2024-02-26,R,https://hh.ru/vacancy/93769785
+94120582,Junior-разработчик,Планетра,60000,Казань,2024-03-10,R,https://hh.ru/vacancy/94120582
 93363563,Junior-разработчик,Планетра,60000,Екатеринбург,2024-02-16,R,https://hh.ru/vacancy/93363563
-92909852,Project manager Junior,CRTEX,60000,Москва,2024-03-07,R,https://hh.ru/vacancy/92909852
+93261854,Junior C&B,Эр-1,,Пермь,2024-02-27,R,https://hh.ru/vacancy/93261854
 92361982,Junior Data Analyst,"РЕСО-Гарантия, САО",,Москва,2024-02-28,R,https://hh.ru/vacancy/92361982
+92909852,Project manager Junior,CRTEX,60000,Москва,2024-03-07,R,https://hh.ru/vacancy/92909852
 92361995,Младший продуктовый аналитик,"РЕСО-Гарантия, САО",,Москва,2024-02-28,R,https://hh.ru/vacancy/92361995
 93469262,No-code разработчик (без опыта),Планетра,60000,Москва,2024-02-19,R,https://hh.ru/vacancy/93469262
-94126691,Младший менеджер проекта (PM junior) / Aссистент менеджера проекта,Консалтика,,Москва,2024-03-07,R,https://hh.ru/vacancy/94126691
-93190235,"Fresh Graduate - Junior Data Analysis (based in Beijing, China)","WISELINK CO.,LTD.",2000,Москва,2024-03-09,R,https://hh.ru/vacancy/93190235
+93190235,"Fresh Graduate - Junior Data Analysis (based in Beijing, China)","WISELINK CO.,LTD.",1200,Москва,2024-03-09,R,https://hh.ru/vacancy/93190235
 93480548,No-code разработчик (без опыта),Планетра,60000,Санкт-Петербург,2024-02-19,R,https://hh.ru/vacancy/93480548
+94126691,Младший менеджер проекта (PM junior) / Aссистент менеджера проекта,Консалтика,,Москва,2024-03-10,R,https://hh.ru/vacancy/94126691
 93784516,Junior bioinformatician - lung carcinomas,BostonGene Technologies,,Москва,2024-02-26,R,https://hh.ru/vacancy/93784516
 91331987,Junior software engineer Rust / Младший инженер-программист Rust (Tatlin Backup),YADRO,,Санкт-Петербург,2024-03-01,R,https://hh.ru/vacancy/91331987
 93363511,Junior-разработчик,Планетра,60000,Казань,2024-02-16,R,https://hh.ru/vacancy/93363511
 93255883,Младший специалист в группу финансовых рисков,Технологии Доверия,,Москва,2024-02-15,R,https://hh.ru/vacancy/93255883
 90924190,Младший специалист в группу финансовых рисков,Технологии Доверия,,Санкт-Петербург,2024-02-18,R,https://hh.ru/vacancy/90924190
-93625587,Младший менеджер по продажам IT b2b,Нью ривер,,Москва,2024-03-07,R,https://hh.ru/vacancy/93625587
+93625587,Младший менеджер по продажам IT b2b,Нью ривер,,Москва,2024-03-10,R,https://hh.ru/vacancy/93625587
 91849357,Junior Backend-разработчик,Программные Системы,50000,Екатеринбург,2024-03-08,Rust,https://hh.ru/vacancy/91849357
-93919883,Junior Frontend - разработчик,Программные Системы,50000,Екатеринбург,2024-03-08,Rust,https://hh.ru/vacancy/93919883
+93919883,Junior Frontend - разработчик,Программные Системы,50000,Екатеринбург,2024-03-11,Rust,https://hh.ru/vacancy/93919883
 94313345,Junior Rust разработчик (Synapse),SberTech,120000,Москва,2024-03-06,Rust,https://hh.ru/vacancy/94313345
 91331987,Junior software engineer Rust / Младший инженер-программист Rust (Tatlin Backup),YADRO,,Санкт-Петербург,2024-03-01,Rust,https://hh.ru/vacancy/91331987
-94391889,Стажер-программист,Вебпрактик,35000,Ростов-на-Дону,2024-03-07,PHP,https://hh.ru/vacancy/94391889
+94391889,Стажер-программист,Вебпрактик,30000,Ростов-на-Дону,2024-03-07,PHP,https://hh.ru/vacancy/94391889
+94475233,Junior iOs-разработчик на Swift,Nti.team,15000,Москва,2024-03-11,PHP,https://hh.ru/vacancy/94475233
 93758409,Frontend-разработчик (Junior),ИНТАС-Компани,60000,Уфа,2024-02-26,PHP,https://hh.ru/vacancy/93758409
+93369325,Программист (Junior - младший разработчик),ПТМК,30000,Санкт-Петербург,2024-02-16,PHP,https://hh.ru/vacancy/93369325
+93506077,Стажер/Junior тестировщик ПО (регресс),ГУТАКС,,Ижевск,2024-02-20,PHP,https://hh.ru/vacancy/93506077
+93214685,Junior Java Developer,"Trend Soft, студия",50000,Москва,2024-03-09,PHP,https://hh.ru/vacancy/93214685
 94274852,Web-разработчик (стажер),Zimalab,,Новосибирск,2024-03-05,PHP,https://hh.ru/vacancy/94274852
 93766959,Junior - программист,SMART-SHOP,80000,Казань,2024-02-26,PHP,https://hh.ru/vacancy/93766959
-93214685,Junior Java Developer,"Trend Soft, студия",70000,Москва,2024-03-09,PHP,https://hh.ru/vacancy/93214685
-93506077,Стажер/Junior тестировщик ПО (регресс),ГУТАКС,,Ижевск,2024-02-20,PHP,https://hh.ru/vacancy/93506077
-93369325,Программист (Junior - младший разработчик),ПТМК,60000,Санкт-Петербург,2024-02-16,PHP,https://hh.ru/vacancy/93369325
-89753481,"Стажер Back-end разработчика (php, python, c#)",Nti.team,30000,Санкт-Петербург,2024-02-27,PHP,https://hh.ru/vacancy/89753481
+89753481,"Стажер Back-end разработчика (php, python, c#)",Nti.team,15000,Санкт-Петербург,2024-03-11,PHP,https://hh.ru/vacancy/89753481
 92581565,Начинающий Веб программист (Junior Web-разработчик),"РэйнбовСофт, НПО",,Саратов,2024-03-10,PHP,https://hh.ru/vacancy/92581565
-93662171,Junior SQL developer,Devim,50000,Санкт-Петербург,2024-03-03,PHP,https://hh.ru/vacancy/93662171
-90719099,Junior developer,Ариороса,15000,Волгоград,2024-02-26,PHP,https://hh.ru/vacancy/90719099
-93558913,Junior Web программист PHP + MySQL + JS,Фидживеб,40000,Уфа,2024-03-01,PHP,https://hh.ru/vacancy/93558913
-93819244,Стажер Академии IT,ГАЗ,,Нижний Новгород,2024-03-07,PHP,https://hh.ru/vacancy/93819244
 93354312,Backend разработчик (junior),Интэрсо,,Петрозаводск,2024-02-16,PHP,https://hh.ru/vacancy/93354312
-93540310,Младший аналитик (IT),Olima,140000,Москва,2024-03-09,PHP,https://hh.ru/vacancy/93540310
-94233577,Стажер автотестирования (Python),ITFB Group,,Екатеринбург,2024-03-04,PHP,https://hh.ru/vacancy/94233577
+93662171,Junior SQL developer,Devim,50000,Санкт-Петербург,2024-03-03,PHP,https://hh.ru/vacancy/93662171
+80127090,Web-программист (Junior),Agile Digital Lab,40000,Барнаул,2024-03-11,PHP,https://hh.ru/vacancy/80127090
+90719099,Junior developer,Ариороса,15000,Волгоград,2024-02-26,PHP,https://hh.ru/vacancy/90719099
+93540310,Младший аналитик (IT),Olima,100000,Москва,2024-03-09,PHP,https://hh.ru/vacancy/93540310
+93558913,Junior Web программист PHP + MySQL + JS,Фидживеб,30000,Уфа,2024-03-01,PHP,https://hh.ru/vacancy/93558913
+93819244,Стажер Академии IT,ГАЗ,,Нижний Новгород,2024-03-07,PHP,https://hh.ru/vacancy/93819244
 93879225,PHP-программист (junior),ProAnalytics,45000,Челябинск,2024-02-27,PHP,https://hh.ru/vacancy/93879225
+94233577,Стажер автотестирования (Python),ITFB Group,,Екатеринбург,2024-03-04,PHP,https://hh.ru/vacancy/94233577
+93927545,Junior Fullstack-разработчик,Rocket Business,35000,Ростов-на-Дону,2024-02-28,PHP,https://hh.ru/vacancy/93927545
 92416802,Стажер-программист PHP,Веб студия СКАЙВЕБ24,40000,Красноярск,2024-02-21,PHP,https://hh.ru/vacancy/92416802
-92977061,Стажер автотестирования (Python),ITFB Group,,Москва,2024-03-07,PHP,https://hh.ru/vacancy/92977061
-90442047,Junior project manager в web-студию,Nti.team,90000,Санкт-Петербург,2024-02-27,PHP,https://hh.ru/vacancy/90442047
-94054249,Стажер автотестирования (Python),ITFB Group,,Самара,2024-02-29,PHP,https://hh.ru/vacancy/94054249
-93927545,Junior Fullstack-разработчик,Rocket Business,70000,Ростов-на-Дону,2024-02-28,PHP,https://hh.ru/vacancy/93927545
+90442047,Junior project manager в web-студию,Nti.team,35000,Санкт-Петербург,2024-03-11,PHP,https://hh.ru/vacancy/90442047
+93297370,Project Manager (junior),Вятка IT,40000,Киров (Кировская область),2024-02-15,PHP,https://hh.ru/vacancy/93297370
 93845143,PHP-программист (Junior),ПромоЛинк,60000,Нижний Новгород,2024-02-27,PHP,https://hh.ru/vacancy/93845143
-93297370,Project Manager (junior),Вятка IT,60000,Киров (Кировская область),2024-02-15,PHP,https://hh.ru/vacancy/93297370
-94051165,Стажер PHP Developer (Symfony),IQ GROUP,30000,Тюмень,2024-03-06,PHP,https://hh.ru/vacancy/94051165
-94054323,Стажер автотестирования (Python),ITFB Group,,Пермь,2024-02-29,PHP,https://hh.ru/vacancy/94054323
-76806710,Junior разработчик,ЮниВеб,60000,Тула,2024-03-04,PHP,https://hh.ru/vacancy/76806710
-93933908,Junior php-разработчик,Adv.Cake,,Москва,2024-03-08,PHP,https://hh.ru/vacancy/93933908
+94051165,Стажер PHP Developer (Symfony),IQ GROUP,19000,Тюмень,2024-03-11,PHP,https://hh.ru/vacancy/94051165
+76806710,Junior разработчик,ЮниВеб,35000,Тула,2024-03-11,PHP,https://hh.ru/vacancy/76806710
+94401649,Back-end разработчик PHP/MySQL Junior,Компания ТрэйдСофт,50000,Киров (Кировская область),2024-03-07,PHP,https://hh.ru/vacancy/94401649
 88937954,Ученик на курс backend-разработки (PHP),QSOFT,,Москва,2024-02-28,PHP,https://hh.ru/vacancy/88937954
 93617293,Backend php разработчик (Junior),ИНТАС-Компани,60000,Уфа,2024-02-21,PHP,https://hh.ru/vacancy/93617293
-92865609,Младший системный администратор,Факт,40000,Магнитогорск,2024-02-19,PHP,https://hh.ru/vacancy/92865609
-94401649,Back-end разработчик PHP/MySQL Junior,Компания ТрэйдСофт,50000,Киров (Кировская область),2024-03-07,PHP,https://hh.ru/vacancy/94401649
+94054249,Стажер автотестирования (Python),ITFB Group,,Самара,2024-02-29,PHP,https://hh.ru/vacancy/94054249
+94054323,Стажер автотестирования (Python),ITFB Group,,Пермь,2024-02-29,PHP,https://hh.ru/vacancy/94054323
+92865609,Младший системный администратор,Факт,30000,Магнитогорск,2024-02-19,PHP,https://hh.ru/vacancy/92865609
 92733178,Web-разработчик (Junior PHP),X3Group,20000,Барнаул,2024-03-06,PHP,https://hh.ru/vacancy/92733178
+93933908,Junior php-разработчик,Adv.Cake,,Москва,2024-03-08,PHP,https://hh.ru/vacancy/93933908
 93918659,Стажер/PHP-программист,OpenStart,30000,Санкт-Петербург,2024-02-28,PHP,https://hh.ru/vacancy/93918659
 94337715,Junior Разработчик PHP,Стройсервис (Группа предприятий),90000,Кемерово,2024-03-06,PHP,https://hh.ru/vacancy/94337715
-93886819,PHP разработчик (junior),"Дельтаинком, ЦИТ",60000,Казань,2024-03-07,PHP,https://hh.ru/vacancy/93886819
-93297809,PHP-разработчик (junior),Экспресс РМС,50000,Тула,2024-03-07,PHP,https://hh.ru/vacancy/93297809
-93285226,Junior Программист 1С (Стажер),Русские решения,40000,Санкт-Петербург,2024-03-07,PHP,https://hh.ru/vacancy/93285226
-93874340,Junior-разработчик на PHP,Ведисофт,70000,Екатеринбург,2024-02-27,PHP,https://hh.ru/vacancy/93874340
+93874340,Junior-разработчик на PHP,Ведисофт,25000,Екатеринбург,2024-02-27,PHP,https://hh.ru/vacancy/93874340
+93285226,Junior Программист 1С (Стажер),Русские решения,40000,Санкт-Петербург,2024-03-10,PHP,https://hh.ru/vacancy/93285226
 93447921,Junior fullstack-разработчик,"Текарт, консалтинговая группа",,Тула,2024-03-04,PHP,https://hh.ru/vacancy/93447921
+93297809,PHP-разработчик (junior),Экспресс РМС,50000,Тула,2024-03-10,PHP,https://hh.ru/vacancy/93297809
+92324430,PHP-программист (Junior),Компания Intelsib,30000,Новосибирск,2024-03-11,PHP,https://hh.ru/vacancy/92324430
 91483163,Младший аналитик в команду поисковых систем сервиса путешествий,Туту.ру,,Москва,2024-03-09,PHP,https://hh.ru/vacancy/91483163
-93961274,"Программист (PHP, Битрикс) Junior",Дрим Тим,120000,Краснодар,2024-02-28,PHP,https://hh.ru/vacancy/93961274
-92324430,PHP-программист (Junior),Компания Intelsib,40000,Новосибирск,2024-03-08,PHP,https://hh.ru/vacancy/92324430
+77978573,PHP-разработчик / web-программист (junior),ИНТЕРВОЛГА,50000,Волгоград,2024-03-10,PHP,https://hh.ru/vacancy/77978573
+93961274,"Программист (PHP, Битрикс) Junior",Дрим Тим,65000,Краснодар,2024-02-28,PHP,https://hh.ru/vacancy/93961274
+94500858,Разработчик Битрикс 24 (junior),GloraX,50000,Санкт-Петербург,2024-03-11,PHP,https://hh.ru/vacancy/94500858
+92004081,PHP разработчик (Junior Backend developer),amoCRM,40000,Москва,2024-03-10,PHP,https://hh.ru/vacancy/92004081
 90956388,Junior Backend Developer РНР (Стажер),Travelata.ru (ООО Травелата),,Севастополь,2024-02-26,PHP,https://hh.ru/vacancy/90956388
-90904062,Младший PHP программист / разработчик сайтов,RiniGroup,55000,Дубна,2024-02-19,PHP,https://hh.ru/vacancy/90904062
-77978573,PHP-разработчик / web-программист (junior),ИНТЕРВОЛГА,85000,Волгоград,2024-03-07,PHP,https://hh.ru/vacancy/77978573
-92004081,PHP разработчик (Junior Backend developer),amoCRM,100000,Москва,2024-03-07,PHP,https://hh.ru/vacancy/92004081
-93423582,Младший web-аналитик / веб-аналитик,Компания Intelsib,35000,Новосибирск,2024-03-08,PHP,https://hh.ru/vacancy/93423582
-93883686,Младший программист 1С (Junior),ЛАНИТ,,Москва,2024-03-07,PHP,https://hh.ru/vacancy/93883686
-93650249,Помощник SEO-специалиста / Младший SEO-оптимизатор,Истина в Маркетинге,40000,Тула,2024-02-22,PHP,https://hh.ru/vacancy/93650249
-92540622,1С-Битрикс разработчик Junior/Middle,Группа компаний OPTI,100000,Челябинск,2024-03-08,PHP,https://hh.ru/vacancy/92540622
+93650249,Помощник SEO-специалиста / Младший SEO-оптимизатор,Истина в Маркетинге,25000,Тула,2024-02-22,PHP,https://hh.ru/vacancy/93650249
+93423582,Младший web-аналитик / веб-аналитик,Компания Intelsib,30000,Новосибирск,2024-03-11,PHP,https://hh.ru/vacancy/93423582
+90904062,Младший PHP программист / разработчик сайтов,RiniGroup,40000,Дубна,2024-02-19,PHP,https://hh.ru/vacancy/90904062
 88108317,Менеджер по продажам в IT (Junior),Системные Бизнес Решения,50000,Уфа,2024-03-06,PHP,https://hh.ru/vacancy/88108317
-91333774,"Junior FullStack-разработчик (PHP, Java Script)",FunFlow (ООО Мобильные Игровые Решения),110000,Москва,2024-02-27,PHP,https://hh.ru/vacancy/91333774
-53327903,"Web-программист (PHP, Fullstack, Junior)",ПРОГРАММНЫЙ ЦЕНТР,58000,Киров (Кировская область),2024-03-06,PHP,https://hh.ru/vacancy/53327903
-92483894,Младший редактор,"АСТ, издательская группа",44000,Москва,2024-02-29,1C,https://hh.ru/vacancy/92483894
+93883686,Младший программист 1С (Junior),ЛАНИТ,,Москва,2024-03-10,PHP,https://hh.ru/vacancy/93883686
+92540622,1С-Битрикс разработчик Junior/Middle,Группа компаний OPTI,100000,Челябинск,2024-03-08,PHP,https://hh.ru/vacancy/92540622
+91333774,"Junior FullStack-разработчик (PHP, Java Script)",FunFlow (ООО Мобильные Игровые Решения),70000,Москва,2024-02-27,PHP,https://hh.ru/vacancy/91333774
+53327903,"Web-программист (PHP, Fullstack, Junior)",ПРОГРАММНЫЙ ЦЕНТР,40000,Киров (Кировская область),2024-03-11,PHP,https://hh.ru/vacancy/53327903
+92483894,Младший редактор,"АСТ, издательская группа",40000,Москва,2024-02-29,1C,https://hh.ru/vacancy/92483894
+93369325,Программист (Junior - младший разработчик),ПТМК,30000,Санкт-Петербург,2024-02-16,1C,https://hh.ru/vacancy/93369325
 93365250,Графический дизайнер Junior,Lead Profit,40000,Санкт-Петербург,2024-03-08,1C,https://hh.ru/vacancy/93365250
-87977377,Junior HTML-верстальщик (стажер),Comrade Web Agency,30000,Волгоград,2024-02-17,1C,https://hh.ru/vacancy/87977377
-93837674,Системный администратор (можно без опыта) / IT-специалист junior,#IZUM,80000,Москва,2024-03-07,1C,https://hh.ru/vacancy/93837674
-93369325,Программист (Junior - младший разработчик),ПТМК,60000,Санкт-Петербург,2024-02-16,1C,https://hh.ru/vacancy/93369325
-93877875,Младший специалист технической поддержки,Аптеки Плюс,61000,Самара,2024-02-27,1C,https://hh.ru/vacancy/93877875
-94276937,Младший 1С-программист,F1Pro,100000,Москва,2024-03-05,1C,https://hh.ru/vacancy/94276937
+94486286,Младший бухгалтер,Агат,52000,Гатчина,2024-03-11,1C,https://hh.ru/vacancy/94486286
 93937696,Помощник воспитателя,"Специализированный дом ребенка, ГКУЗ СО",40000,Екатеринбург,2024-02-28,1C,https://hh.ru/vacancy/93937696
+87977377,Junior HTML-верстальщик (стажер),Comrade Web Agency,30000,Волгоград,2024-02-17,1C,https://hh.ru/vacancy/87977377
+93837674,Системный администратор (можно без опыта) / IT-специалист junior,#IZUM,40000,Москва,2024-03-10,1C,https://hh.ru/vacancy/93837674
+94276937,Младший 1С-программист,F1Pro,100000,Москва,2024-03-05,1C,https://hh.ru/vacancy/94276937
+93877875,Младший специалист технической поддержки,Аптеки Плюс,51500,Самара,2024-02-27,1C,https://hh.ru/vacancy/93877875
 93815327,Младший аналитик,"Эксмо, издательство",55000,Москва,2024-02-26,1C,https://hh.ru/vacancy/93815327
+93483595,Специалист лазерной эпиляции / Медицинская сестра / медицинский брат (м.Таганская),Лазер Про Клиник,60000,Москва,2024-02-19,1C,https://hh.ru/vacancy/93483595
 93667732,Младший менеджер маркетплейсов,Стокманн,70000,Москва,2024-02-22,1C,https://hh.ru/vacancy/93667732
-92577154,Младший специалист отдела Казначейство,Сервисная компания Пикта,30000,Нижний Новгород,2024-03-06,1C,https://hh.ru/vacancy/92577154
-94410198,Младший специалист по работе с таможней,Мэлон Фэшн Груп,,Санкт-Петербург,2024-03-07,1C,https://hh.ru/vacancy/94410198
+92577154,Младший специалист отдела Казначейство,Сервисная компания Пикта,30000,Нижний Новгород,2024-03-11,1C,https://hh.ru/vacancy/92577154
 94105253,Архивариус (стажёр),AGIMA,,Москва,2024-03-01,1C,https://hh.ru/vacancy/94105253
-94399271,Младший специалист по кадровому делопроизводству,СберРешения,,Рязань,2024-03-07,1C,https://hh.ru/vacancy/94399271
-93295400,Помощник категорийного менеджера / Junior project manager,Рекламно-Торговый Конгломерат,40000,Нижний Новгород,2024-02-19,1C,https://hh.ru/vacancy/93295400
-94289228,Младший программист 1С,Тэсонэро,80000,Санкт-Петербург,2024-03-08,1C,https://hh.ru/vacancy/94289228
-94348238,Младший редактор / Удаленный ассистент,Финион,60000,Москва,2024-03-09,1C,https://hh.ru/vacancy/94348238
-89004473,Младший менеджер IT-проектов (г.Краснодар),МедРокет,60000,Краснодар,2024-02-26,1C,https://hh.ru/vacancy/89004473
-93483595,Специалист лазерной эпиляции / Медицинская сестра / медицинский брат (м.Таганская),Лазер Про Клиник,120000,Москва,2024-02-19,1C,https://hh.ru/vacancy/93483595
-94096942,Младший юрист,SPLAT,,Москва,2024-03-01,1C,https://hh.ru/vacancy/94096942
-93793608,Младший системный администратор,Качественные решения,60000,Санкт-Петербург,2024-02-26,1C,https://hh.ru/vacancy/93793608
-93742041,Junior Media Buyer,Lead Profit,500000,Москва,2024-03-08,1C,https://hh.ru/vacancy/93742041
+94334676,Оператор складского учета (с. Белозёрки),Яфарова София Асхатовна,40000,Красный Яр (Самарская область),2024-03-06,1C,https://hh.ru/vacancy/94334676
+93793608,Младший системный администратор,Качественные решения,40000,Санкт-Петербург,2024-02-26,1C,https://hh.ru/vacancy/93793608
+94348238,Младший редактор / Удаленный ассистент,Финион,50000,Москва,2024-03-09,1C,https://hh.ru/vacancy/94348238
+93239696,Junior Media Buyer,Lead Profit,30000,Санкт-Петербург,2024-03-09,1C,https://hh.ru/vacancy/93239696
 92782806,Диспетчер больницы,АРНИ,60000,Королев,2024-02-28,1C,https://hh.ru/vacancy/92782806
-94334676,Оператор складского учета (с. Белозёрки),Яфарова София Асхатовна,50000,Красный Яр (Самарская область),2024-03-06,1C,https://hh.ru/vacancy/94334676
+94289228,Младший программист 1С,Тэсонэро,70000,Санкт-Петербург,2024-03-08,1C,https://hh.ru/vacancy/94289228
+94410198,Младший специалист по работе с таможней,Мэлон Фэшн Груп,,Санкт-Петербург,2024-03-07,1C,https://hh.ru/vacancy/94410198
+94399271,Младший специалист по кадровому делопроизводству,СберРешения,,Рязань,2024-03-07,1C,https://hh.ru/vacancy/94399271
+93650718,Junior Project manager,NOMIA,,Москва,2024-03-11,1C,https://hh.ru/vacancy/93650718
 93280985,Программист 1С (junior),ТрансРесурс,100000,Москва,2024-02-15,1C,https://hh.ru/vacancy/93280985
-93261854,Junior C&B,Эр-1,,Пермь,2024-02-27,1C,https://hh.ru/vacancy/93261854
+94296320,Младший менеджер по работе с печатной продукцией,SERGEY NAUMOV BEAUTY,55000,Москва,2024-03-08,1C,https://hh.ru/vacancy/94296320
+94227173,Помощник бренд-менеджера,Ваши Люди,70000,Санкт-Петербург,2024-03-11,1C,https://hh.ru/vacancy/94227173
+93452113,Помощник менеджера по продажам / Младший менеджер,Джусмастер Импорт,80000,Москва,2024-02-19,1C,https://hh.ru/vacancy/93452113
 94013064,Младший оператор/Оператор/Фармацевт в отдел обработки данных,Медико-фармацевтический дистрибьютор,62370,Санкт-Петербург,2024-03-09,1C,https://hh.ru/vacancy/94013064
-94227173,Помощник бренд-менеджера,Ваши Люди,70000,Санкт-Петербург,2024-03-04,1C,https://hh.ru/vacancy/94227173
-92590427,Диспетчер больницы,АРНИ,55000,Москва,2024-02-28,1C,https://hh.ru/vacancy/92590427
-93332324,"Оператор 1С, младший бухгалтер",Тольятти Ритейл,43500,Тольятти,2024-02-16,1C,https://hh.ru/vacancy/93332324
-93239696,Junior Media Buyer,Lead Profit,500000,Санкт-Петербург,2024-03-09,1C,https://hh.ru/vacancy/93239696
-93452113,Помощник менеджера по продажам / Младший менеджер,Джусмастер Импорт,100000,Москва,2024-02-19,1C,https://hh.ru/vacancy/93452113
-94227674,Младший бухгалтер,СберЛогистика,57500,Санкт-Петербург,2024-03-04,1C,https://hh.ru/vacancy/94227674
+93742041,Junior Media Buyer,Lead Profit,30000,Москва,2024-03-08,1C,https://hh.ru/vacancy/93742041
+94406986,Ассистент отдела маркетинга,Первый Бит,50000,Москва,2024-03-07,1C,https://hh.ru/vacancy/94406986
+89004473,Младший менеджер IT-проектов (г.Краснодар),МедРокет,60000,Краснодар,2024-02-26,1C,https://hh.ru/vacancy/89004473
+94367253,"SEO-оптимизатор Junior, удаленно",Maryproject,40000,Москва,2024-03-06,1C,https://hh.ru/vacancy/94367253
+93261854,Junior C&B,Эр-1,,Пермь,2024-02-27,1C,https://hh.ru/vacancy/93261854
+94254018,Помощник финансового директора,АНОО Хорошевская школа,70000,Москва,2024-03-05,1C,https://hh.ru/vacancy/94254018
+94096942,Младший юрист,SPLAT,,Москва,2024-03-01,1C,https://hh.ru/vacancy/94096942
 93819244,Стажер Академии IT,ГАЗ,,Нижний Новгород,2024-03-07,1C,https://hh.ru/vacancy/93819244
-94296320,Младший менеджер по работе с печатной продукцией,SERGEY NAUMOV BEAUTY,65000,Москва,2024-03-08,1C,https://hh.ru/vacancy/94296320
-94254018,Помощник финансового директора,АНОО Хорошевская школа,80000,Москва,2024-03-05,1C,https://hh.ru/vacancy/94254018
+94227674,Младший бухгалтер,СберЛогистика,57500,Санкт-Петербург,2024-03-11,1C,https://hh.ru/vacancy/94227674
+92590427,Диспетчер больницы,АРНИ,60000,Москва,2024-02-28,1C,https://hh.ru/vacancy/92590427
 94268432,Младший специалист делопроизводства и документооборота,ГКС Альянс,45000,Санкт-Петербург,2024-03-05,1C,https://hh.ru/vacancy/94268432
-94367253,"SEO-оптимизатор Junior, удаленно",Maryproject,80000,Москва,2024-03-06,1C,https://hh.ru/vacancy/94367253
-94406986,Ассистент отдела маркетинга,Первый Бит,70000,Москва,2024-03-07,1C,https://hh.ru/vacancy/94406986
-93650718,Junior Project manager,NOMIA,,Москва,2024-03-08,1C,https://hh.ru/vacancy/93650718
-94118819,Программист 1С Junior,Калкулэйт,120000,Санкт-Петербург,2024-03-07,1C,https://hh.ru/vacancy/94118819
-93893968,Консультант - стажер 1С/Младший консультант 1С,«Аксиома-Софт»,50000,Москва,2024-03-05,1C,https://hh.ru/vacancy/93893968
-94220814,Младший программист 1С,КомпасЛидера,60000,Санкт-Петербург,2024-03-07,1C,https://hh.ru/vacancy/94220814
-93988870,Младший менеджер по ВЭД,KOMANDA.PRO,90000,Москва,2024-02-28,1C,https://hh.ru/vacancy/93988870
-94185827,Консультант 1С (сопровождение и поддержка),Керама Марацци,,Санкт-Петербург,2024-03-04,1C,https://hh.ru/vacancy/94185827
-93511053,Младший специалист по документообороту (Отдел логистики),ДЖИЛИ-МОТОРС,,Москва,2024-03-09,1C,https://hh.ru/vacancy/93511053
-94403660,CRM-администратор,Ефимов Денис Константинович,70000,Уфа,2024-03-07,1C,https://hh.ru/vacancy/94403660
-94118754,Стажер HR-отдела,VinylRussia,50000,Москва,2024-03-07,1C,https://hh.ru/vacancy/94118754
-94114221,Консультант-аналитик 1С (стажер),АСАП РАЗРАБОТКА,60000,Москва,2024-03-07,1C,https://hh.ru/vacancy/94114221
-94316954,Младший специалист по закупкам,Т1,,Москва,2024-03-06,1C,https://hh.ru/vacancy/94316954
 92849987,Младший офис-менеджер / Секретарь,Illan communications,65000,Москва,2024-02-29,1C,https://hh.ru/vacancy/92849987
-92416802,Стажер-программист PHP,Веб студия СКАЙВЕБ24,40000,Красноярск,2024-02-21,1C,https://hh.ru/vacancy/92416802
-93975103,Младший бренд-менеджер / Младший менеджер по маркетингу,Мистраль,,Москва,2024-03-04,1C,https://hh.ru/vacancy/93975103
-94290588,Младший менеджер по работе с клиентами,MARSHALL,70000,Москва,2024-03-05,1C,https://hh.ru/vacancy/94290588
-92323865,Младший системный администратор/Эникей,Лофт фитнес,35000,Ярославль,2024-03-04,1C,https://hh.ru/vacancy/92323865
-92716685,Младший менеджер отдела кадров,Ветростиль,55000,Москва,2024-02-16,1C,https://hh.ru/vacancy/92716685
-92801097,1С Разработчик (junior/middle),IT-Компания АБС,75000,Красноярск,2024-02-28,1C,https://hh.ru/vacancy/92801097
-94357385,Младший программист (Junior),Апиценна,60000,Железнодорожный,2024-03-06,1C,https://hh.ru/vacancy/94357385
-93337401,Младший Продакт-менеджер (Product),KAAMBEZ_ONE (ИП Константинова Екатерина Викторовна),80000,Москва,2024-03-08,1C,https://hh.ru/vacancy/93337401
-94083082,Junior Key Account Manager (Европа),Софис,,Москва,2024-03-01,1C,https://hh.ru/vacancy/94083082
-94262574,Младший специалист по технической документации,Группа компаний АГРОЭКО,,Воронеж,2024-03-05,1C,https://hh.ru/vacancy/94262574
-93681157,Младший аналитик,Компания ПЭК,,Москва,2024-02-22,1C,https://hh.ru/vacancy/93681157
-93936007,Младший ревизор,Промрукав,54500,Владимир,2024-02-28,1C,https://hh.ru/vacancy/93936007
+94220814,Младший программист 1С,КомпасЛидера,60000,Санкт-Петербург,2024-03-07,1C,https://hh.ru/vacancy/94220814
+93511053,Младший специалист по документообороту (Отдел логистики),ДЖИЛИ-МОТОРС,,Москва,2024-03-09,1C,https://hh.ru/vacancy/93511053
+94444881,Продавец-консультант в магазин одежды,Дом верхней одежды,40000,Красноярск,2024-03-09,1C,https://hh.ru/vacancy/94444881
+93893968,Консультант - стажер 1С/Младший консультант 1С,«Аксиома-Софт»,50000,Москва,2024-03-05,1C,https://hh.ru/vacancy/93893968
 94115292,Младший бухгалтер/Junior Accountant,Marillion,,Москва,2024-03-01,1C,https://hh.ru/vacancy/94115292
-94444881,Продавец-консультант в магазин одежды,Дом верхней одежды,60000,Красноярск,2024-03-09,1C,https://hh.ru/vacancy/94444881
-93519220,Программист 1С (Junior),Новая Платформа,100000,Москва,2024-03-09,1C,https://hh.ru/vacancy/93519220
-92128546,Помощник системного администратора / Junior System Administrator,1С-АВТОМАТИЗАЦИЯ,69000,Москва,2024-03-07,1C,https://hh.ru/vacancy/92128546
-93083395,Младший специалист информационной безопасности,ИТ-Экспертиза,,Москва,2024-03-07,1C,https://hh.ru/vacancy/93083395
-93061782,Младший бренд-менеджер,Эйч Кью Трейдинг,73000,Санкт-Петербург,2024-03-07,1C,https://hh.ru/vacancy/93061782
-93845143,PHP-программист (Junior),ПромоЛинк,60000,Нижний Новгород,2024-02-27,1C,https://hh.ru/vacancy/93845143
-94190302,Специалист техподдержки 1С/ Junior разработчик 1С,ФАУ РОСДОРНИИ,80000,Москва,2024-03-04,1C,https://hh.ru/vacancy/94190302
-94197537,Начинающий экономист,Медиагруппа РИМ,40000,Казань,2024-03-07,1C,https://hh.ru/vacancy/94197537
-92781003,Младший аналитик отдела продаж,Кордиант,75000,Москва,2024-03-04,1C,https://hh.ru/vacancy/92781003
-91992337,Младший специалист технической поддержки 1С Отчетность (удалённо),Астрал-Софт,32000,Калуга,2024-03-01,1C,https://hh.ru/vacancy/91992337
-92442500,Младший программист 1С,МедРокет,63000,Краснодар,2024-03-04,1C,https://hh.ru/vacancy/92442500
+93975103,Младший бренд-менеджер / Младший менеджер по маркетингу,Мистраль,,Москва,2024-03-11,1C,https://hh.ru/vacancy/93975103
+93295400,Помощник категорийного менеджера / Junior project manager,Рекламно-Торговый Конгломерат,40000,Нижний Новгород,2024-02-19,1C,https://hh.ru/vacancy/93295400
+92801097,1С Разработчик (junior/middle),IT-Компания АБС,40000,Красноярск,2024-02-28,1C,https://hh.ru/vacancy/92801097
+94316954,Младший специалист по закупкам,Т1,,Москва,2024-03-06,1C,https://hh.ru/vacancy/94316954
+94459552,Младший бизнес-аналитик (Продажи),"Gulliver, Группа компаний",,Москва,2024-03-10,1C,https://hh.ru/vacancy/94459552
+92416802,Стажер-программист PHP,Веб студия СКАЙВЕБ24,40000,Красноярск,2024-02-21,1C,https://hh.ru/vacancy/92416802
+94185827,Консультант 1С (сопровождение и поддержка),Керама Марацци,,Санкт-Петербург,2024-03-04,1C,https://hh.ru/vacancy/94185827
+93988870,Младший менеджер по ВЭД,KOMANDA.PRO,90000,Москва,2024-02-28,1C,https://hh.ru/vacancy/93988870
+94118819,Программист 1С Junior,Калкулэйт,120000,Санкт-Петербург,2024-03-07,1C,https://hh.ru/vacancy/94118819
+94290588,Младший менеджер по работе с клиентами,MARSHALL,50000,Москва,2024-03-05,1C,https://hh.ru/vacancy/94290588
+94172635,Программист 1С (Junior),Мебельная фабрика Любимая кухня,80000,Екатеринбург,2024-03-10,1C,https://hh.ru/vacancy/94172635
 93766975,Бухгалтер/младший бухгалтер,Лекс-С,75000,Москва,2024-03-09,1C,https://hh.ru/vacancy/93766975
-94210187,Младший юрисконсульт,Масленица,,Воронеж,2024-03-04,1C,https://hh.ru/vacancy/94210187
-94190350,"IT Project manager intern, remote / Проджект менеджер-стажер в IT сфере, удаленно / PM Intern",OQTACORE,,Москва,2024-03-07,1C,https://hh.ru/vacancy/94190350
-93379692,Junior Продукт менеджер,ТД ГраСС,60000,Волгоград,2024-02-17,1C,https://hh.ru/vacancy/93379692
+94114221,Консультант-аналитик 1С (стажер),АСАП РАЗРАБОТКА,60000,Москва,2024-03-10,1C,https://hh.ru/vacancy/94114221
+94118754,Стажер HR-отдела,VinylRussia,50000,Москва,2024-03-10,1C,https://hh.ru/vacancy/94118754
+94262574,Младший специалист по технической документации,Группа компаний АГРОЭКО,,Воронеж,2024-03-05,1C,https://hh.ru/vacancy/94262574
+94403660,CRM-администратор,Ефимов Денис Константинович,35000,Уфа,2024-03-10,1C,https://hh.ru/vacancy/94403660
+93098979,Младший юрист,ТрансРесурс,60000,Москва,2024-03-07,1C,https://hh.ru/vacancy/93098979
+94357385,Младший программист (Junior),Апиценна,60000,Железнодорожный,2024-03-06,1C,https://hh.ru/vacancy/94357385
+92530627,Младший менеджер по работе с клиентами,ЛУИС+,60000,Москва,2024-02-29,1C,https://hh.ru/vacancy/92530627
+93681157,Младший аналитик,Компания ПЭК,,Москва,2024-02-22,1C,https://hh.ru/vacancy/93681157
+93845143,PHP-программист (Junior),ПромоЛинк,60000,Нижний Новгород,2024-02-27,1C,https://hh.ru/vacancy/93845143
+91992337,Младший специалист технической поддержки 1С Отчетность (удалённо),Астрал-Софт,32000,Калуга,2024-03-01,1C,https://hh.ru/vacancy/91992337
+93519220,Программист 1С (Junior),Новая Платформа,40000,Москва,2024-03-09,1C,https://hh.ru/vacancy/93519220
+94083082,Junior Key Account Manager (Европа),Софис,,Москва,2024-03-01,1C,https://hh.ru/vacancy/94083082
 93161259,Аналитик (junior),ТОП КЕЙС,,Москва,2024-03-03,1C,https://hh.ru/vacancy/93161259
-93098979,Младший юрист,ТрансРесурс,80000,Москва,2024-03-07,1C,https://hh.ru/vacancy/93098979
+93117076,Техник / Младший системный администратор,ГБУЗ Республиканский кардиологический центр,35000,Уфа,2024-02-29,1C,https://hh.ru/vacancy/93117076
+92323865,Младший системный администратор/Эникей,Лофт фитнес,35000,Ярославль,2024-03-04,1C,https://hh.ru/vacancy/92323865
+92442500,Младший программист 1С,МедРокет,63000,Краснодар,2024-03-11,1C,https://hh.ru/vacancy/92442500
+76806710,Junior разработчик,ЮниВеб,35000,Тула,2024-03-11,1C,https://hh.ru/vacancy/76806710
+93936007,Младший ревизор,Промрукав,54500,Владимир,2024-02-28,1C,https://hh.ru/vacancy/93936007
+92354159,Программист 1С (стажер / младший),ЭРКОН,30000,Москва,2024-03-09,1C,https://hh.ru/vacancy/92354159
+93083395,Младший специалист информационной безопасности,ИТ-Экспертиза,,Москва,2024-03-10,1C,https://hh.ru/vacancy/93083395
 94295092,Junior Project manager / Проджект менеджер (Стажер),Курган-Ишмуратова Юлия Фанильевна,,Москва,2024-03-05,1C,https://hh.ru/vacancy/94295092
-94311236,Помощник юриста,BY business group,50000,Энгельс,2024-03-06,1C,https://hh.ru/vacancy/94311236
-94076234,Специалист письменной поддержки клиентов,МАГ Девелопмент,57000,Томск,2024-03-07,1C,https://hh.ru/vacancy/94076234
-94222666,Младший специалист по работе с клиентами,Smartway,40000,Барнаул,2024-03-04,1C,https://hh.ru/vacancy/94222666
+92128546,Помощник системного администратора / Junior System Administrator,1С-АВТОМАТИЗАЦИЯ,69000,Москва,2024-03-07,1C,https://hh.ru/vacancy/92128546
+92781003,Младший аналитик отдела продаж,Кордиант,75000,Москва,2024-03-04,1C,https://hh.ru/vacancy/92781003
 91555687,Младший аналитик,Компания ПЭК,55000,Москва,2024-03-04,1C,https://hh.ru/vacancy/91555687
-92126290,Младший программист 1С (Junior),Внедренцы и Программисты,50000,Санкт-Петербург,2024-02-22,1C,https://hh.ru/vacancy/92126290
-76806710,Junior разработчик,ЮниВеб,60000,Тула,2024-03-04,1C,https://hh.ru/vacancy/76806710
-93950996,Младший менеджер по закупкам,Лига Героев,70000,Москва,2024-02-28,1C,https://hh.ru/vacancy/93950996
-94311069,Помощник юриста,BY business group,50000,Вольск,2024-03-06,1C,https://hh.ru/vacancy/94311069
-93083756,Стажер-программист 1С (IT компания),ГК Инфолайн,35000,Хабаровск,2024-03-07,1C,https://hh.ru/vacancy/93083756
-92354159,Программист 1С (стажер / младший),ЭРКОН,150000,Москва,2024-03-09,1C,https://hh.ru/vacancy/92354159
-93132390,Бухгалтер на первичную документацию,ЮНИОН Санкт-Петербург,48000,Санкт-Петербург,2024-03-08,1C,https://hh.ru/vacancy/93132390
-92530627,Младший менеджер по работе с клиентами,ЛУИС+,90000,Москва,2024-02-29,1C,https://hh.ru/vacancy/92530627
+94516160,Младший бухгалтер,Realweb,,Санкт-Петербург,2024-03-11,1C,https://hh.ru/vacancy/94516160
+94190302,Специалист техподдержки 1С/ Junior разработчик 1С,ФАУ РОСДОРНИИ,80000,Москва,2024-03-04,1C,https://hh.ru/vacancy/94190302
+93337401,Младший Продакт-менеджер (Product),KAAMBEZ_ONE (ИП Константинова Екатерина Викторовна),80000,Москва,2024-03-11,1C,https://hh.ru/vacancy/93337401
+94076234,Специалист письменной поддержки клиентов,МАГ Девелопмент,57000,Томск,2024-03-10,1C,https://hh.ru/vacancy/94076234
+94190350,"IT Project manager intern, remote / Проджект менеджер-стажер в IT сфере, удаленно / PM Intern",OQTACORE,,Москва,2024-03-10,1C,https://hh.ru/vacancy/94190350
+94197537,Начинающий экономист,Медиагруппа РИМ,40000,Казань,2024-03-07,1C,https://hh.ru/vacancy/94197537
+93950996,Младший менеджер по закупкам,Лига Героев,60000,Москва,2024-02-28,1C,https://hh.ru/vacancy/93950996
+93379692,Junior Продукт менеджер,ТД ГраСС,60000,Волгоград,2024-02-17,1C,https://hh.ru/vacancy/93379692
 93379693,Junior Продукт менеджер,ТД ГраСС,60000,Волжский (Волгоградская область),2024-02-17,1C,https://hh.ru/vacancy/93379693
-94019163,Младший логист,Центр СМ,35000,Вологда,2024-02-29,1C,https://hh.ru/vacancy/94019163
-94217749,Помощник юриста,Курьер Сервис Экспресс,60000,Москва,2024-03-04,1C,https://hh.ru/vacancy/94217749
-91924480,Младший менеджер отдела ресторанного направления,Виноторговая компания Форт,60000,Москва,2024-03-08,1C,https://hh.ru/vacancy/91924480
+94311069,Помощник юриста,BY business group,30000,Вольск,2024-03-06,1C,https://hh.ru/vacancy/94311069
+94210187,Младший юрисконсульт,Масленица,,Воронеж,2024-03-04,1C,https://hh.ru/vacancy/94210187
+94311236,Помощник юриста,BY business group,30000,Энгельс,2024-03-06,1C,https://hh.ru/vacancy/94311236
+91393651,Младший специалист по организации перевозок,РУЛОГ,,Самара,2024-03-10,1C,https://hh.ru/vacancy/91393651
+92126290,Младший программист 1С (Junior),Внедренцы и Программисты,50000,Санкт-Петербург,2024-02-22,1C,https://hh.ru/vacancy/92126290
 94202110,Младший финансовый менеджер,Click2Мoney,,Москва,2024-03-04,1C,https://hh.ru/vacancy/94202110
-94405226,Сестра-хозяйка,МЦ ОЛМЕД,25000,Серов,2024-03-07,1C,https://hh.ru/vacancy/94405226
+94405226,Сестра-хозяйка,МЦ ОЛМЕД,25000,Серов,2024-03-11,1C,https://hh.ru/vacancy/94405226
+91358503,Программист 1C (junior),Проектные решения,30000,Пермь,2024-02-28,1C,https://hh.ru/vacancy/91358503
+92716685,Младший менеджер отдела кадров,Ветростиль,55000,Москва,2024-02-16,1C,https://hh.ru/vacancy/92716685
+90002709,Младший специалист по разметке данных,Спортмастер,,Москва,2024-02-18,1C,https://hh.ru/vacancy/90002709
